@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -81,77 +81,80 @@ experiences:
       time: Feb 2019 - Present
       company: PPTS Pvt Ltd, Coimbatore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        As a part of Infrastructure Development & Support team, handling development
+for high complex websites and building futuristic platforms for effective data
+retrieval
+          - In depth Legal domain knowledge.
+          - Hands on experience in Data analytics and Machine learning libraries
+          - Framework Development Experience for data extraction.
+          - Hands on experience in image processing using OpenCv and PIL
+          - Hands on experience on Node JS, Selenium for Browser Automation.
+          - Hands on experience in API Development (Open API/Swagger)
+          - Hands on experience in Web Development with Flask
+          - Hands on experience in NLP based tasks
+          - Providing Hands-on trainings to Operation Teams and New bees
+          - Experience in Research and Development
 
     - role: Software Engineer
       time: 2015 - 2019
       company: Ugam Solutions Pvt Ltd, Coimbatore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        As a part of Infrastructure Development & Support team, handling development
+for high complex websites and building futuristic platforms for effective data
+retrieval
+          - In depth e-Commerce domain knowledge.
+          - 3 years experiences in python for Scrapping and Automation
+          - Hands on experience in multiple technologies for scrapping/mining
+          - Framework Development Experience for data extraction.
+          - Providing Hands-on trainings to Operation Teams and New bees
+          - Experience in Research and Development
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Its my world of learnings and implementations. 
 
     assignments:
       - title: MrCrop
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://pypi.org/project/MrCrop/"
+        tagline: "Crop faces from batches of images in directory faster"
 
       - title: MrSnippets
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://pypi.org/project/MrSnippets/"
+        tagline: "A complete collection of common code snippets"
 
       - title: MrTutorial
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://dhamodharanrk.github.io/MrTutorial/"
+        tagline: "A complete college of tutorials and code snippets"
 
       - title: MrScraper
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A simple initiative for inovative web crawler to simply the time of coding"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Automation
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Automations using Python
+        level: 97%
 
-      - name: Angular
-        level: 98%
+      - name: Machine Learning
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
+
+      - name: Flask
+        level: 40%
+
+      - name: MongoDB
+        level: 60%
+        
+      - name: SQL
+        level: 40%
 
 footer: >
     Copyright @ <i class="fas fa-heart"></i> by <a href="https://dhamodharanrk.github.io/" target="_blank" rel="nofollow">Dhamodharan</a>
