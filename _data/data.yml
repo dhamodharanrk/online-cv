@@ -109,6 +109,20 @@ experiences:
           - Providing Hands-on trainings to Operation Teams and New bees
           - Experience in Research and Development
 
+publications:
+    title: Certifictaions
+    intro: |
+      Undergone in below certifications to get sharp my skills in latest and upcomming technologies
+      
+    papers:
+      - title: Data Science using Python - 2019
+        authors: Data Handling, Data Modelling & Machine Learning
+        conference: Analytixlabs, Bangalore.
+
+      - title: Certified Big Data Expert - Ongoing
+        authors: HDFS, MapReduce, Pig, Hive, Impala Hbase, Sqoop, Flume and Spark.
+        conference: Analytixlabs, Bangalore.
+
 projects:
     title: Projects
     intro: >
