@@ -140,7 +140,7 @@ projects:
 
       - title: MrSnippets
         link: "https://pypi.org/project/MrSnippets/"
-        tagline: "A complete set of rare & commonly used code snippets"
+        tagline: "A complete set of pre-defined code snippets to reduce development time"
 
       - title: MrTutorial
         link: "https://dhamodharanrk.github.io/MrTutorial/"
