@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dhamodharan
+    name: Dhamodharan K
     tagline: Python Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -44,10 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A dynamic, talented and experienced data mining specialist with excellent
+      A dynamic and professional data mining specialist with excellent
       knowledge in analyzing large data, building, deploying and maintaining data
       support tools. Expertise in research and development of Parsers for web
-      scrapping. Possess excellent Domain Knowledge and leadership skills.
+      scrapping. Possess excellent domain knowledge and leadership skills.
 
 education:
     - degree: BE Computer Science and Engineering
@@ -78,22 +78,23 @@ education:
 
 experiences:
     - role: Senior Software Developer
-      time: Feb 2019 - Present
+      time: Feb 2019 - Till date
       company: PPTS Pvt Ltd, Coimbatore
       details: |
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
+          - Hands on experience in Data analytics and Machine learning libraries.
+          - Experience in Complete Framework Development for data extraction.
+          - Well versed in Web Development with Flask.
+          - Hands on experience in 
+                - Image processing using OpenCv and PIL.
+                - Node JS, Selenium for Browser Automation.
+                - Open API/Swagger for API Development.
+                - NLP based tasks.
+          - Providing professional & Hands-on trainings to Operation Team and New bees.
+          - Experience in deep Research and Development.
           - In depth Legal domain knowledge.
-          - Hands on experience in Data analytics and Machine learning libraries
-          - Framework Development Experience for data extraction.
-          - Hands on experience in image processing using OpenCv and PIL
-          - Hands on experience on Node JS, Selenium for Browser Automation.
-          - Hands on experience in API Development (Open API/Swagger)
-          - Hands on experience in Web Development with Flask
-          - Hands on experience in NLP based tasks
-          - Providing Hands-on trainings to Operation Teams and New bees
-          - Experience in Research and Development
 
     - role: Software Engineer
       time: 2015 - 2019
@@ -102,19 +103,18 @@ experiences:
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
+          - 3 years experience in python for Scrapping and Automation.
           - In depth e-Commerce domain knowledge.
-          - 3 years experiences in python for Scrapping and Automation
-          - Hands on experience on Node JS, Selenium for Browser Automation.
-          - Hands on experience in multiple technologies for scrapping/mining
           - Framework Development Experience for data extraction.
-          - Providing Hands-on trainings to Operation Teams and New bees
-          - Experience in Research and Development
+          - Hands on experience in multiple technologies for scrapping/mining.
+          - Working experience on Node JS, Selenium for Browser Automation.
+          - Providing Hands-on trainings to Operation Teams and New bees.
+          - Experience in Research and Development.
 
 
 publications:
     title: Certifictaions
     intro: |
-      Undergone in below certifications to get sharp my skills in latest and upcomming technologies
       
     papers:
       - title: Data Science using Python - 2019
@@ -128,30 +128,32 @@ publications:
 projects:
     title: Projects
     intro: >
-      Its my world of learnings and implementations. 
+      Below are my Unofficaial projects, completely done for my own interest and knowledge development.
 
     assignments:
+      - title: MrScraper
+        link: "#"
+        tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
+        
       - title: MrCrop
         link: "https://pypi.org/project/MrCrop/"
-        tagline: "Crop faces from batches of images in directory faster"
+        tagline: "Fast & accurate way of cropping faces from batch of images in directory"
 
       - title: MrSnippets
         link: "https://pypi.org/project/MrSnippets/"
-        tagline: "A complete collection of common code snippets"
+        tagline: "A complete set of rare & commonly used code snippets"
 
       - title: MrTutorial
         link: "https://dhamodharanrk.github.io/MrTutorial/"
-        tagline: "A complete college of tutorials and code snippets"
+        tagline: "A various collection of necessary tutorials with related code examples"
 
-      - title: MrScraper
-        link: "#"
-        tagline: "A simple initiative for inovative web crawler to simply the time of coding"
+      
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Core Python
         level: 98%
 
       - name: Automations using Python
