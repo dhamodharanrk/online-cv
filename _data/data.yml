@@ -44,10 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A dynamic and professional Data Mining Specialist with excellent
-      knowledge in analyzing large data, building, deploying and maintaining data
-      support tools. Expertise in research and development of multiple technologies used for ETL Process & Data Analitycs.
-      Possess excellent domain knowledge and leadership skills.
+      A dynamic and professional Data Engineer with excellent
+      knowledge in analyzing large datasets, building, deploying and maintaining data
+      support tools. Expertise in various technologies used for ETL Process & Data Analitycs including updated technologies like NLP, Spacy for text Analysis.
+      Possess excellent domain knowledge and leadership skills as leading the team in technological front.
 
 education:
     - degree: BE Computer Science and Engineering
@@ -79,18 +79,22 @@ education:
 experiences:
     - role: Senior Software Developer
       time: Aug 2019 - Till date
-      company: UST Global, Bangalore
+      company: UST Global, Bangalore (Client : Merck)
       details: |
         As a part of IT R&D and Data Analitics Team, handling development
-        for high complex ETL pipelines and Supporting for internal Application Developments.
+        for high complex ETL pipelines and Supporting internal teams for Data and Text Analytics Tasks.
         
-          - Supporting in Data analytics and Machine learning tasks.
-          - Experience in Complete Framework Development for data extraction.
-          - Hands on experience in Open API/Swagger for API Development.
-          - Hands on experience in NLP based tasks.
-          - Providing professional & Hands-on trainings to Operation Team and New bees.
-          - Working on Multiple Research tasks for future software systems
-          - In depth Life Science/Performence Matrials domain knowledge.
+          - Working on Bio-Informatics domain
+          - Supporting Data analytics and Machine learning tasks with designing and building complex ETL Pipelines.
+          - Experience in developing Framework for data extraction with various concepts & Tools.
+          - Developing ETL Pipelines and deploying it in Apache Airflow
+          - Having Hands on experience in Open API/Swagger for API Development.
+          - Having Hands on experience in NLP for custom text predicions and text analysis.
+          - Providing professional & Hands-on trainings to Operation Teams and New bees.
+          - Working on Multiple Research tasks for improving team's growth in technology front.
+          - Leading & Supporting the team in technological front
+          - Working on Multiple Databases like SQL, Mongo, PosTgreSQL
+          - Good Understanding of PubMed, Clinical Trials and more domains
           
     - role: Senior Software Developer
       time: Feb 2019 - Aug 2019
@@ -99,16 +103,14 @@ experiences:
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
-          - Hands on experience in Data analytics and Machine learning libraries.
-          - Experience in Complete Framework Development for data extraction.
-          - Well versed in Web Development with Flask.
-          - Hands on experience in Image processing using OpenCv and PIL.
-          - Hands on experience in Node JS, Selenium for Browser Automation.
-          - Hands on experience in Open API/Swagger for API Development.
-          - Hands on experience in NLP based tasks.
-          - Providing professional & Hands-on trainings to Operation Team and New bees.
-          - Experience in deep Research and Development.
-          - In depth Legal domain knowledge.
+          - Worked on a Legal Domain for Data Extraction and Data Analytics
+          - Developed a complete Framework for Data Extraction and Data Processing
+          - Deployed a UI Based Data Extraction Framework using Flask.
+          - Supported PHP Team for Image processing using OpenCv and PIL.
+          - Implemented Web Browser based Automation using Node JS, Selenium for performing various operations
+          - Developed and Deployed multiple API services using Open API/Swagger for various data services.
+          - Implemented a methods to extract Simple Personal Informations (Name, Qualification, Job Title, etc) using custom NER Models.
+          - Leading and Training the Team Members for Latest improvemnets in technology front.
           
     - role: Software Engineer
       time: 2015 - 2019
@@ -117,14 +119,12 @@ experiences:
         As a part of Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
-          - 3 years experience in python for Scrapping and Automation.
-          - In depth e-Commerce domain knowledge.
-          - Framework Development Experience for data extraction.
-          - Hands on experience in multiple technologies for scrapping/mining.
-          - Working experience on Node JS, Selenium for Browser Automation.
-          - Providing Hands-on trainings to Operation Teams and New bees.
-          - Experience in Research and Development.
-
+          - Worked on E-Commerce domain, Having well understanding of their websites data and behaviours.
+          - Developed Scrappers for almost all the top retailers in the market.
+          - Worked on a larger data extraction processing Framework with Hadoop Archistructure
+          - Worked on multiple technologies for web scrapping/mining.
+          - Good experiance in data extraction using Selenium (Python Selenium).
+          - Providing trainings to internal Teams for new implementations in technology front.
 
 publications:
     title: Certifictaions
@@ -142,7 +142,7 @@ publications:
 projects:
     title: Projects
     intro: >
-      Below are my Unofficaial projects, completely done for my own interest and knowledge development.
+      As be curious about new techonlogis and to test myself in multiple technolgies, i have done some small projects which i portrayed here. Curiosity still continues..
 
     assignments:
       - title: MrScraper
@@ -172,13 +172,16 @@ skills:
 
       - name: Automations using Python
         level: 97%
-
-      - name: Machine Learning
-        level: 50%
+        
+      - name: ETL Pipelines
+        level: 97%
 
       - name: HTML5 & CSS
         level: 60%
-
+        
+      - name: Machine Learning
+        level: 30%
+        
       - name: Flask
         level: 40%
 
