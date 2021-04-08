@@ -168,28 +168,25 @@ skills:
 
     toolset:
       - name: Python Programming
-        level: 91.5%
+        level: 92.5%
 
       - name: Data Processing & Automation
-        level: 89.5%
+        level: 91.5%
         
-      - name: ETL Pipelines
-        level: 90%
+      - name: ETL Pipelines (Custom Frameworks, Apache Airflow , Luigi)
+        level: 93.4%
 
-      - name: Web Development(Flask, HTML5 & CSS)
-        level: 40%
+      - name: Web Development(Flask, Django, Open API)
+        level: 41.6%
         
-      - name: Machine Learning
-        level: 30%
+      - name: Machine Learning Models & Libraries
+        level: 34.7%
         
-      - name: Apache Airflow
-        level: 50%
-
-      - name: Natural Language Processing (Spacy, NLP , Textblob)
-        level: 50%
+      - name: Natural Language Processing (Spacy, NLP, Custom NER)
+        level: 50.7%
         
       - name: Database Technologies (MongoDB, SQL, PostgreSQL)
-        level: 60%
+        level: 67.5%
 
 footer: >
     Copyright @ <i class="fas fa-heart"></i> by <a href="https://dhamodharanrk.github.io/" target="_blank" rel="nofollow">Dhamodharan</a>
