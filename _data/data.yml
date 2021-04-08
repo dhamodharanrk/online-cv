@@ -168,23 +168,29 @@ skills:
 
     toolset:
       - name: Core Python
-        level: 98%
+        level: 91.5%
 
-      - name: Automations using Python
-        level: 97%
+      - name: Data Processing & Automation
+        level: 90.5%
         
       - name: ETL Pipelines
-        level: 97%
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 60%
+        level: 40%
         
       - name: Machine Learning
         level: 30%
         
       - name: Flask
         level: 40%
+        
+      - name: Apache Airflow
+        level: 50%
 
+      - name: NLP & Spacy
+        level: 50%
+        
       - name: MongoDB
         level: 60%
         
