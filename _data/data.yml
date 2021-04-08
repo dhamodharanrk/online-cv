@@ -167,35 +167,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Core Python
+      - name: Python Programming
         level: 91.5%
 
       - name: Data Processing & Automation
-        level: 90.5%
+        level: 89.5%
         
       - name: ETL Pipelines
         level: 90%
 
-      - name: HTML5 & CSS
+      - name: Web Development(Flask, HTML5 & CSS)
         level: 40%
         
       - name: Machine Learning
         level: 30%
         
-      - name: Flask
-        level: 40%
-        
       - name: Apache Airflow
         level: 50%
 
-      - name: NLP & Spacy
+      - name: Natural Language Processing (Spacy, NLP , Textblob)
         level: 50%
         
-      - name: MongoDB
+      - name: Database Technologies (MongoDB, SQL, PostgreSQL)
         level: 60%
-        
-      - name: SQL
-        level: 40%
 
 footer: >
     Copyright @ <i class="fas fa-heart"></i> by <a href="https://dhamodharanrk.github.io/" target="_blank" rel="nofollow">Dhamodharan</a>
