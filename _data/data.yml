@@ -79,12 +79,12 @@ education:
 experiences:
     - role: Senior Software Developer
       time: Aug 2019 - Till date
-      company: UST Global, Bangalore (Client : Merck)
+      company: UST Global, Bangalore
       details: |
         As a part of IT R&D and Data Analitics Team, handling development
         for high complex ETL pipelines and Supporting internal teams for Data and Text Analytics Tasks.
         
-          - Working on Bio-Informatics domain
+          - Working for client Merck on Bio-Informatics domain
           - Supporting Data analytics and Machine learning tasks with designing and building complex ETL Pipelines.
           - Experience in developing Framework for data extraction with various concepts & Tools.
           - Developing ETL Pipelines and deploying it in Apache Airflow
