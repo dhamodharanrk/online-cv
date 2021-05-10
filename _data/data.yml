@@ -145,22 +145,21 @@ projects:
       As be curious about new techonlogis and to test myself in multiple technolgies, i have done some small projects which i portrayed here. Curiosity still continues..
 
     assignments:
-      - title: MrScraper
-        link: "#"
-        tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
+      - title: MrSnippets
+        link: "https://pypi.org/project/MrSnippets/"
+        tagline: "A complete set of pre-defined code snippets to reduce development time"
         
       - title: MrCrop
         link: "https://pypi.org/project/MrCrop/"
         tagline: "Fast & accurate way of cropping faces from batch of images in directory"
 
-      - title: MrSnippets
-        link: "https://pypi.org/project/MrSnippets/"
-        tagline: "A complete set of pre-defined code snippets to reduce development time"
-
       - title: MrTutor
         link: "https://dhamodharanrk.github.io/MrTutorial/"
         tagline: "A various collection of necessary tutorials with related code examples"
 
+      - title: MrScraper
+        link: "#"
+        tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
       
 
 skills:
