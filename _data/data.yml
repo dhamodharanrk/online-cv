@@ -32,7 +32,7 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Blog
+      - item: blogging
         link:
 
       - item: Games
@@ -47,7 +47,7 @@ career-profile:
       A dynamic and professional Data Engineer with excellent
       knowledge in analyzing large datasets, building, deploying and maintaining data
       support tools. Expertise in various technologies used for ETL Process & Data Analitycs including updated technologies like NLP, Spacy for text Analysis.
-      Possess excellent domain knowledge and leadership skills as leading the team in technological front.
+      Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
 
 education:
     - degree: BE Computer Science and Engineering
