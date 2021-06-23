@@ -132,10 +132,24 @@ experiences:
       details: |
         Working/Worked on data mining and analysing the data for business application using various tools and technologies.
         
-          - E-commerce:
+          - E-commerce
               - Developed Data Parsers for Top retailers in the industry
               - Developed more than 200 python Scripts for Data Extraction
               - Worked on multiple Languages
+              
+          - Legal
+              - Developed Framework for data extraction
+              - Implemented Parsing codes for more than 300 domains
+              
+          - Bio-Informatics
+              - Publication data mining and text analysis
+              - Clinical Trial data mining and text analysis
+              - Author data mining and text analysis
+              - Working on more than 10 Data sources from the different area for ETL and Text Analysis
+              
+          - News Sources
+              - Developed Framework for news data collection
+              - Developed parser codes for more than 400 domains
 
 publications:
     title: Certifictaions
