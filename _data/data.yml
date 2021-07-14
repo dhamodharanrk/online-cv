@@ -33,7 +33,7 @@ sidebar:
         
     interests:
       - item: blogging
-        link:
+        link: https://dhamodharanrk.github.io/portfolio/blog/
 
       - item: Games
         link:
@@ -45,7 +45,7 @@ career-profile:
     title: Career Profile
     summary: |
       A dynamic and professional Data Engineer with excellent
-      knowledge in analyzing large datasets, building, deploying and maintaining data
+      knowledge in analyzing large datasets, building, deploying and Maintaining data
       support tools. Expertise in various technologies used for ETL Process & Data Analitycs including updated technologies like NLP, Spacy for text Analysis.
       Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
 
@@ -138,18 +138,18 @@ experiences:
               - Worked on multiple Languages
               
           - Legal
-              - Developed Framework for data extraction
-              - Implemented Parsing codes for more than 300 domains
+              - Developed web based Framework for Data Extraction
+              - Implemented Parsing codes for more than 300 domains(Law Firms)
               
           - Bio-Informatics
-              - Publication data mining and text analysis
-              - Clinical Trial data mining and text analysis
-              - Author data mining and text analysis
+              - Publication Data Mining and Text Analysis from NCBI
+              - Clinical Trial Data Mining and Text Analysis
+              - Author Data Mining and Text Analysis from Multiple data sources
               - Working on more than 10 Data sources from the different area for ETL and Text Analysis
               
           - News Sources
-              - Developed Framework for news data collection
-              - Developed parser codes for more than 400 domains
+              - Developed Framework for Daily News Data Collection
+              - Implemented Parsing codes for more than 400 domains(News Websites)
 
 publications:
     title: Certifictaions
@@ -165,27 +165,30 @@ publications:
         conference: Analytixlabs, Bangalore.
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      As be curious about new techonlogis and to test myself in multiple technolgies, i have done some small projects which i portrayed here. Curiosity still continues..
+      Being curious about new trends in technology and to sharp myself in the updated trends and techonlogies,
 
     assignments:
       - title: MrSnippets
         link: "https://pypi.org/project/MrSnippets/"
-        tagline: "A complete set of pre-defined code snippets to reduce development time"
+        tagline: "A complete set of pre-defined code snippets to reduce development effort"
         
       - title: MrCrop
         link: "https://pypi.org/project/MrCrop/"
         tagline: "Fast & accurate way of cropping faces from batch of images in directory"
 
-      - title: MrTutor
-        link: "https://dhamodharanrk.github.io/MrTutorial/"
-        tagline: "A various collection of necessary tutorials with related code examples"
+      - title: MrMap
+        link: "#"
+        tagline: "Extract place names from a URL or text, and add context to those names"
 
       - title: MrScraper
         link: "#"
         tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
-      
+
+      - title: View More
+        link: "https://dhamodharanrk.github.io/portfolio/projects/"
+        tagline: "Simple Portfolio page to showcase all the projects done"
 
 skills:
     title: Skills &amp; Proficiency
