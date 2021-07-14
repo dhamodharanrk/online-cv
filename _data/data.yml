@@ -156,13 +156,22 @@ publications:
     intro: |
       
     papers:
-      - title: Data Science using Python - 2019
+
+      - title: Diploma in Python Programing
+        authors: Beginner to Advanced Python Programmer
+        conference: Shaw Academy
+
+      - title: Data Science using Python
         authors: Data Handling, Data Modelling & Machine Learning
         conference: Analytixlabs, Bangalore.
-
-      - title: Certified Big Data Expert - Ongoing
-        authors: HDFS, MapReduce, Pig, Hive, Impala Hbase, Sqoop, Flume and Spark.
-        conference: Analytixlabs, Bangalore.
+        
+      - title: Diploma in Project Management - On Going
+        authors: Agile Project Management skills
+        conference: Shaw Academy
+        
+      - title: The Complete Python Pro Bootcamp for 2021 - On Going
+        authors: To Learn the latest Tools and Technologie used for various Python Programming
+        conference: Udemy
 
 projects:
     title: Personal Projects
