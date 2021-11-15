@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Dhamodharan K
-    tagline: Python Developer/Data Engineer
+    tagline: Python Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dhamodharanrk@gmail.com
     phone: +91 98940 28181
-    website: dhamodharanrk.github.io
+    website: https://www.dhamodharanrk.com/
     linkedin: dhamodharanrk
     github: dhamodharanrk
     gitlab:
@@ -32,11 +32,11 @@ sidebar:
         level: Professional
         
     interests:
-      - item: blogging
-        link: https://dhamodharanrk.github.io/portfolio/blog/
+      - item: Tutorial Writing
+        link: https://www.dhamodharanrk.com/portfolio/blog/
 
-      - item: Games
-        link:
+      - item: Blogs
+        link: https://sites.google.com/view/way2learnings/home
 
       - item: Cooking
         link:
@@ -46,7 +46,7 @@ career-profile:
     summary: |
       A dynamic and professional Data Engineer with excellent
       knowledge in analyzing large datasets, building, deploying and Maintaining data
-      support tools. Expertise in various technologies used for ETL Process & Data Analitycs including updated technologies like NLP, Spacy for text Analysis.
+      support tools. Expertise in various technologies used for ETL Process & Data Analitycs with utilizing technologies like NLP, Spacy.
       Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
 
 education:
@@ -81,75 +81,82 @@ experiences:
       time: Aug 2019 - Till date
       company: UST Global, Bangalore
       details: |
-        As a part of IT R&D and Data Analitics Team, handling development
+        As a part of the IT R&D and Data Analytics Team, Handling the development
         for high complex ETL pipelines and Supporting internal teams for Data and Text Analytics Tasks.
         
-          - Working for client Merck on Bio-Informatics domain
-          - Supporting Data analytics and Machine learning tasks with designing and building complex ETL Pipelines.
-          - Experience in developing Framework for data extraction with various concepts & Tools.
-          - Developing ETL Pipelines and deploying it in Apache Airflow
-          - Having Hands on experience in Open API/Swagger for API Development.
-          - Having Hands on experience in NLP for custom text predicions and text analysis.
-          - Providing professional & Hands-on trainings to Operation Teams and New bees.
-          - Working on Multiple Research tasks for improving team's growth in technology front.
-          - Leading & Supporting the team in technological front
-          - Working on Multiple Databases like SQL, Mongo, PosTgreSQL
-          - Good Understanding of PubMed, Clinical Trials and more domains
+          - Working for client Merck on their base location, Bangalore
+          - Designing and developing the complex data pipelines (ETL)
+          - Apache Airflow deployment and Administration
+          - Handling multiple automation tasks from different teams.
+          - Experience in developing a Framework for data extraction with various concepts & Tools.
+          - Having Hands-on experience in Open API/Swagger for API Development.
+          - Having Hands-on experience in NLP for custom text predictions and text analysis.
+          - Providing professional & Hands-on training to Operation Teams and New bees.
+          - Working on Multiple Research tasks for improving the team's growth in the technology front.
+          - Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc...
+          - Working on Multiple Databases like SQL, Mongo, PostgreSQL
+          - Handling the recruitment process for the Text Analysis Team
+          - Leading the team on Technological front having a group of 5 People from different domains
           
     - role: Senior Software Developer
       time: Feb 2019 - Aug 2019
       company: PPTS Pvt Ltd, Coimbatore
       details: |
-        As a part of Infrastructure Development & Support team, handling development
+        As a part of the Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
           - Worked on a Legal Domain for Data Extraction and Data Analytics
           - Developed a complete Framework for Data Extraction and Data Processing
           - Deployed a UI Based Data Extraction Framework using Flask.
-          - Supported PHP Team for Image processing using OpenCv and PIL.
+          - Supported PHP Team for Image processing using OpenCV and PIL which detect and crop Faces.
           - Implemented Web Browser based Automation using Node JS, Selenium for performing various operations
           - Developed and Deployed multiple API services using Open API/Swagger for various data services.
-          - Implemented a methods to extract Simple Personal Informations (Name, Qualification, Job Title, etc) using custom NER Models.
-          - Leading and Training the Team Members for Latest improvemnets in technology front.
+          - Implemented methods to extract basic Information (Name, Qualification, Job Title, etc) using custom NER Models.
+          - Handling multiple independent projects and Team Projects
+          - Leading and Training the Team Members for the latest improvements in the technology front.
+          
           
     - role: Software Engineer
       time: Jan 2016 - Jan 2019
       company: Ugam Solutions Pvt Ltd, Coimbatore
       details: |
-        As a part of Infrastructure Development & Support team, handling development
+        As a part of the Infrastructure Development & Support team, handling development
         for high complex websites and building futuristic platforms for effective data retrieval.
         
-          - Worked on E-Commerce domain, Having well understanding of their websites data and behaviours.
-          - Developed Scrappers for almost all the top retailers in the market.
+          - In-depth knowledge of the E-Commerce domain
+          - Developed parsing code most of the top retailers
+          - Experience in handling multilingual data sets
+          - Worked on various automation activities
           - Worked on a larger data extraction processing Framework with Hadoop Archistructure
-          - Worked on multiple technologies for web scrapping/mining.
-          - Good experiance in data extraction using Selenium (Python Selenium).
-          - Providing trainings to internal Teams for new implementations in technology front.
+          - Used multiple methods like NodeJs, Selenium, Applications for extracting 
+          - Providing training to internal Teams for new implementations on the technology front.
 
     - role: Domain Knowledge
       time: Jan 2016 - Till Date
       company: From all previous and current company
       details: |
-        Working/Worked on data mining and analysing the data for business application using various tools and technologies.
+        Worked and currently working on various business problems from the following domains with utilizing latest technologies,
         
           - E-commerce
-              - Developed Data Parsers for Top retailers in the industry
+              - Developed end-to-end data mining pipelines for top retailers with advanced distributed concepts from the Custom Build Framework
               - Developed more than 200 python Scripts for Data Extraction
-              - Worked on multiple Languages
-              
+              - Experience in handling Multilingual datasets
+              - Implemented multiple automation to support data processing tasks
+
           - Legal
-              - Developed web based Framework for Data Extraction
-              - Implemented Parsing codes for more than 300 domains(Law Firms)
+              - Designed and Implemented a GUI-based Web Scraping Platform which reduced the development efforts.
+              - Developed more than 300 scripts for extracting data from websites
               
           - Bio-Informatics
               - Publication Data Mining and Text Analysis from NCBI
               - Clinical Trial Data Mining and Text Analysis
               - Author Data Mining and Text Analysis from Multiple data sources
-              - Working on more than 10 Data sources from the different area for ETL and Text Analysis
+              - Worked on multiple methods for mining information from biomedical text utilizing NLP
+              - Working on more than 10 Data sources from the different areas for ETL and Text Analysis
               
           - News Sources
-              - Developed Framework for Daily News Data Collection
-              - Implemented Parsing codes for more than 400 domains(News Websites)
+              - Designed and implemented a custom news mining platform
+              - Developed and applied the method to more than 400 news domains
 
 publications:
     title: Certifictaions
@@ -170,13 +177,17 @@ publications:
         conference: Shaw Academy
         
       - title: The Complete Python Pro Bootcamp for 2021 - On Going
-        authors: To Learn the latest Tools and Technologie used for various Python Programming
+        authors: To Learn the latest Tools and Technologies used for various Python Programming
+        conference: Udemy
+        
+      - title: Spark and Python for Big Data with PySpark - On Going
+        authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
         conference: Udemy
 
 projects:
     title: Personal Projects
     intro: >
-      Being curious about new trends in technology and to sharp myself in the updated trends and techonlogies,
+      Being curious about the latest technologies and passion towards programming, 
 
     assignments:
       - title: MrSnippets
@@ -185,7 +196,7 @@ projects:
         
       - title: MrCrop
         link: "https://pypi.org/project/MrCrop/"
-        tagline: "Fast & accurate way of cropping faces from batch of images in directory"
+        tagline: "Fast & accurate way of cropping faces from a batch of images in directory"
 
       - title: MrMap
         link: "#"
@@ -196,8 +207,8 @@ projects:
         tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
 
       - title: View More
-        link: "https://dhamodharanrk.github.io/portfolio/projects/"
-        tagline: "Simple Portfolio page to showcase all the projects done"
+        link: "https://www.dhamodharanrk.com/portfolio/projects/"
+        tagline: "Simple Portfolio site to showcase the projects am working on"
 
 skills:
     title: Skills &amp; Proficiency
@@ -225,4 +236,4 @@ skills:
         level: 67.5%
 
 footer: >
-    Copyright @ <i class="fas fa-heart"></i> by <a href="https://dhamodharanrk.github.io/" target="_blank" rel="nofollow">Dhamodharan</a>
+    Copyright @ <i class="fas fa-heart"></i> by <a href="https://www.dhamodharanrk.com/" target="_blank" rel="nofollow">Dhamodharan</a>
