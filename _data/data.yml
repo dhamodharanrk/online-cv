@@ -85,19 +85,21 @@ experiences:
         I was also responsible to optimize data quality and implement areas for automation and better data processing.
         In addition, I was responsible for designing, developing, testing, and supporting data pipelines and applications.
 
-          - Working for client Merck on their base location, Bangalore
-          - Designing and developing the complex data pipelines (ETL)
-          - Apache Airflow deployment and Administration
-          - Handling multiple automation tasks from different teams.
-          - Experience in developing a Framework for data extraction with various concepts & Tools.
-          - Having Hands-on experience in Open API/Swagger for API Development.
-          - Having Hands-on experience in NLP for custom text predictions and text analysis.
-          - Providing professional & Hands-on training to Operation Teams and New bees.
-          - Working on Multiple Research tasks for improving the team's growth in the technology front.
+          - Working on the client location (Merck KGaA, Bangalore)
+          - Developing and maintaining the data pipelines using Apache Airflow
+          - Hands-on experience with data collection, data analysis, and natural language processing in the life science domain
+          - Experience in data cleaning, pre-processing, service delivery, and automating analysis or the workflows
+          - Experience in developing a Framework for data extraction with various concepts & Tools
+          - Hand-on experience in developing Python Selenium-based scripts for browser automation
+          - Implemented and maintained the user-friendly Framework to extract data from NEWS Sources based on Python & Django
+          - Hands-on experience in developing and deploying REST API Services using Flask & Django
+          - Providing end to end automated solutions for tasks anything related to Python
+          - Hands-on experience in implementing custom NER methods to extract the entities from biomedical text data
+          - Experience in working with multiple databases like MySQL, Mongo, PostgreSQL
+          - Good understanding of deploying and managing the services on Linux machines
           - Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc...
-          - Working on Multiple Databases like SQL, Mongo, PostgreSQL
-          - Handling the recruitment process for the Text Analysis Team
-          - Supporting the team members in terms of technical aspects
+          - Acting as lead for the group of Data Scientists, Data Engineers, Content Experts
+          - Alongside, Exploring the new methods and improvements for the entire cycle of the Team.
           
     - role: Senior Software Developer
       time: Feb 2019 - Aug 2019
