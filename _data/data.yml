@@ -84,7 +84,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Senior Software Developer
+    - role: Senior Software Developer (Python)
       time: Aug 2019 - Till date
       company: UST Global, Bangalore
       details: |
@@ -92,79 +92,122 @@ experiences:
         I was also responsible to optimize data quality and implement areas for automation and better data processing.
 
           - Working on the client location (Merck KGaA, Bangalore)
-          - Handling complete life cycle of Data Collection, Data Processing, Data Analysis for given set of bussiness problems
-          - Hands-on experiance in designing and developing customozied Frameworks for effective Data Extraction and Analysis
-          - Hands-on experiance in various automation activities using Python & Browser Automation with using PySelenium
-          - Well Experianced in converting the bussiness problems into workable technical Protypes
+          - Handling complete life cycle of Data Collection, Data Processing, Data Analysis for a given set of business problems
+          - Hands-on experience in designing and developing customized Frameworks for effective Data Extraction and Analysis
+          - Hands-on experience in various automation activities using Python & Browser Automation with using PySelenium
+          - Well experienced in converting the business problems into workable technical Prototypes
           - Hands-on experience in implementing custom NER methods to extract the entities from biomedical text data
-          - Experiance in developing and configuring the Apache Airflow based Pipelines
-          - Hands-on experience in developing API Services and Front-end Applications using Flask & Django
-          - Good understanding of deploying and managing the services on Linux machines & Deployed services like Apache Airflow, label Studio, Django
+          - Experience in developing and configuring the Apache Airflow based Pipelines
+          - Experience in developing API Services and Front-end Applications using Flask and Django
+          - Good understanding of deploying and managing the services on Linux machines
+          - Deployed services like Apache Airflow, label Studio, Django
           - Experience in working with multiple databases like MySQL, Mongo, PostgreSQL
           - Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc...
-          - Working experiance in Agile & Ticket based enviroments (Jira, Service Now, bitbucket, Git)
-          - Ebility to lead the team as managing the team of Data Scientist, Data Engineers, Content Experts
-          - Alongside, Exploring the new methods and improvements for the entire cycle of the Team.
+          - Working experience in Agile & Ticketing based environments (Jira, Service Now, bitbucket, Git)
+          - Experience in Team Management as leading the team of Text Analytics group consists of Data Scientist, Data Engineers, Content Experts
+          - Alongside, Exploring the methods and technologies for improving and optimizing the solutions provided or developed
           
-    - role: Senior Software Developer
+    - role: Senior Software Developer (Python)
       time: Feb 2019 - Aug 2019
       company: PPTS Pvt Ltd, Coimbatore
       details: |
-        As a part of the Infrastructure Development & Support team, handling development
-        for high complex websites and building futuristic platforms for effective data retrieval.
+        As a part of the Data Management and Python Automation Team, Supported multiple automation projects to solve business problems and Developed methods to automate end-to-end data extraction pipelines for effective Data Retrieval and Management. Also, responsible for handling the client requirements and managing the automation team
         
-          - Worked on a Legal Domain for Data Extraction and Data Analytics
-          - Developed a complete Framework for Data Extraction and Data Processing
-          - Deployed a UI Based Data Extraction Framework using Flask.
-          - Supported PHP Team for Image processing using OpenCV and PIL which detect and crop Faces.
-          - Implemented Web Browser based Automation using Node JS, Selenium for performing various operations
-          - Developed and Deployed multiple API services using Open API/Swagger for various data services.
-          - Implemented methods to extract basic Information (Name, Qualification, Job Title, etc) using custom NER Models.
-          - Handling multiple independent projects and Team Projects
+          - Handled Data extraction and Analysis for Legal Domain
+          - Developed and deployed UI Based Data extraction Platform for effective data retrieval from various websites
+          - Implemented dynamic, template-based Python Codes to reduce development efforts
+          - Experience in OpenCV and Pillow libraries for Image processing as supported front-end Team for detecting and Croping the human faces from the profile picture
+          - Implemented Web Browser based Automation using Node JS, Selenium to perform various operations data mining automation
+          - Implemented API Services to provide data services to other Applications & teams
+          - Developed custom NER method to extraction user-related information like Name, Qualification, Job Title using Spacy
+          - With all together, improved the production speed of developing new domains from 4 per day to 10 per day
           - Leading and Training the Team Members for the latest improvements in the technology front.
+          - Handling multiple independent projects and Team Projects
           
           
-    - role: Software Engineer
+    - role: Software Engineer (Python)
       time: Jan 2016 - Jan 2019
       company: Ugam Solutions Pvt Ltd, Coimbatore
       details: |
-        As a part of the Infrastructure Development & Support team, handling development
+        As a part of the Infrastructure Development & Support team, Developing and managing data extraction 
         for high complex websites and building futuristic platforms for effective data retrieval.
         
-          - In-depth knowledge of the E-Commerce domain
-          - Developed parsing code most of the top retailers
-          - Experience in handling multilingual data sets
-          - Worked on various automation activities
-          - Worked on a larger data extraction processing Framework with Hadoop Archistructure
-          - Used multiple methods like NodeJs, Selenium, Applications for extracting 
-          - Providing training to internal Teams for new implementations on the technology front.
+          - Sound knowledge in e-commerce dataset
+          - Developed methods using the custom framework for data extraction
+          - Worked on a multilingual dataset and top retailers websites in the current market
+          - Worked on multiple automation tasks which include larger data processing and validation
+          - Handled complete cycle of the projects includes Scheduling, Monitoring, exporting, Validating, Data Processing and delivering it to client
+          - Implemented end-to-end automated solutions for projects having multiple stages
+          - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
+          - Closely worked with multiple technology teams for platform improvements and testing
+          - Worked with the team of 10 members and handled critical developments (L3)
+          - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
+          - Provided continuous training for executive teams and the development teams for technology changes
 
     - role: Domain Knowledge
       time: Jan 2016 - Till Date
-      company: From all previous and current company
+      company: Summary of the domain related experiances
       details: |
-        Worked and currently working on various business problems from the following domains with utilizing latest technologies,
+        As a Python Programmer, solving and solved the challenging problems from the following areas
         
           - E-commerce
-              - Developed end-to-end data mining pipelines for top retailers with advanced distributed concepts from the Custom Build Framework
+              - Worked on custom developed Framework for Data Extraction based on Distributed Architecture
               - Developed more than 200 python Scripts for Data Extraction
               - Experience in handling Multilingual datasets
-              - Implemented multiple automation to support data processing tasks
+              - Experience in various end-to-end automation on top of the e-commerce dataset
 
           - Legal
-              - Designed and Implemented a GUI-based Web Scraping Platform which reduced the development efforts.
-              - Developed more than 300 scripts for extracting data from websites
+              - Sound knowledge in the legal dataset as worked on more than 300 websites
+              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+              - Handled automated data cleanings, validation, and matching
               
           - Bio-Informatics
-              - Publication Data Mining and Text Analysis from NCBI
-              - Clinical Trial Data Mining and Text Analysis
-              - Author Data Mining and Text Analysis from Multiple data sources
-              - Worked on multiple methods for mining information from biomedical text utilizing NLP
-              - Working on more than 10 Data sources from the different areas for ETL and Text Analysis
-              
+              - Sound knowledge in multiple data sources.
+              - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
+              - Implemented methods to extract information like author, affiliation, and Products from text data using Python and SciSpacy
+              - Experience in handling custom NER models for extracting keywords using Spacy
+              - Understanding of author networks & Collaborations
+
           - News Sources
-              - Designed and implemented a custom news mining platform
-              - Developed and applied the method to more than 400 news domains
+              - Build a customized data mining platform with a stack of python libraries
+              - Provides rich front-end for configuring the domains
+              - Supports HTML, JSON, and RSS feeds
+              - Extracting and parsing data from around 500 Domains on a daily basis
+
+    - role: Official Projects
+      time: Jan 2016 - Till Date
+      company: Summary of the projects worked on
+      details: |
+        As a Python Programmer, involved in various projects as team and indepented contributer
+        
+          - EDGE
+              - Its an application to provide insights about the authors, institutes and their reaearch 
+              - Implemented end to end solution to extract and processing the data from various end points
+              - Using Python, Pandas, MySQL, MongoDB
+
+          - AIMS
+              - Sound knowledge in the legal dataset as worked on more than 300 websites
+              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+              
+          - Covid19 Dashboard
+              - Sound knowledge in multiple data sources.
+              - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
+              
+          - Daily News Alerts
+              - Sound knowledge in the legal dataset as worked on more than 300 websites
+              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+              
+          - Adhoc Projects
+              - Sound knowledge in the legal dataset as worked on more than 300 websites
+              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+
+          - Visualization Projects
+              - Build a customized data mining platform with a stack of python libraries
+              - Provides rich front-end for configuring the domains
+              
+          - Automation Projects
+              - Sound knowledge in the legal dataset as worked on more than 300 websites
+              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
 
 publications:
     title: Certifictaions
