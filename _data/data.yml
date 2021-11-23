@@ -39,13 +39,13 @@ sidebar:
         link: https://sites.google.com/view/way2learnings/home
 
     technicals:
-      - item: Languages - Python, Shell Programming, HTML
-        link: 
-
-      - item: Database- MySQL, MongoDB, PostgreSQL
+      - item: Python, Shell Programming
         link: 
         
-      - item: Libraries- Pandas, Spacy, beautifulsoup4
+      - item: Pandas,beautifulsoup4,Django,Plotly & More
+        link: 
+        
+      - item: MySQL, MongoDB, PostgreSQL
         link: 
 
 career-profile:
