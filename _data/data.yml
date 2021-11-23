@@ -31,12 +31,19 @@ sidebar:
       - idiom: English
         level: Professional
         
-    technical Skills:
+    interests:
       - item: Tutorial Writing
         link: https://www.dhamodharanrk.com/portfolio/blog/
 
       - item: Blogs
         link: https://sites.google.com/view/way2learnings/home
+
+    technicals:
+      - item: Python
+        link: 
+
+      - item: Apache Airflow
+        link: 
 
 career-profile:
     title: Career Profile
