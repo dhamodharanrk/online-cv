@@ -42,7 +42,7 @@ sidebar:
       - item: Python, Shell Programming
         link: 
         
-      - item: Pandas,beautifulsoup4,Django,Plotly & More
+      - item: Pandas, beautifulsoup4, Django, Spacy, Plotly & More
         link: 
         
       - item: MySQL, MongoDB, PostgreSQL
@@ -52,7 +52,7 @@ career-profile:
     title: Career Profile
     summary: |
       A dynamic and professional Data Engineer with excellent
-      knowledge in analyzing large datasets, building, deploying and Maintaining data
+      knowledge in analyzing large datasets, building, deploying, and Maintaining data
       support tools. Expertise in various technologies used for ETL Process & Data Analitycs with utilizing technologies like Python, Spacy, Apache Airflow.
       Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
 
@@ -92,21 +92,19 @@ experiences:
         I was also responsible to optimize data quality and implement areas for automation and better data processing.
 
           - Working on the client location (Merck KGaA, Bangalore)
-          - Developing and maintaining the data pipelines using Apache Airflow
-          - Hands-on experience with data collection, data analysis, and natural language processing in the life science domain
-          - Experience in data cleaning, pre-processing, service delivery, and automating analysis or the workflows
-          - Experience in developing a Framework for data extraction with various concepts & Tools
-          - Hand-on experience in developing Python Selenium-based scripts for browser automation
-          - Hands-on experience in developing and deploying REST API and Front-end Services using Flask & Django
-          - Providing end to end automated solutions for tasks anything related to Python
+          - Handling complete life cycle of Data Collection, Data Processing, Data Analysis for given set of bussiness problems
+          - Hands-on experiance in designing and developing customozied Frameworks for effective Data Extraction and Analysis
+          - Hands-on experiance in various automation activities using Python & Browser Automation with using PySelenium
+          - Well Experianced in converting the bussiness problems into workable technical Protypes
           - Hands-on experience in implementing custom NER methods to extract the entities from biomedical text data
+          - Experiance in developing and configuring the Apache Airflow based Pipelines
+          - Hands-on experience in developing API Services and Front-end Applications using Flask & Django
+          - Good understanding of deploying and managing the services on Linux machines & Deployed services like Apache Airflow, label Studio, Django
           - Experience in working with multiple databases like MySQL, Mongo, PostgreSQL
-          - Good understanding of deploying and managing the services on Linux machines
           - Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc...
           - Working experiance in Agile & Ticket based enviroments (Jira, Service Now, bitbucket, Git)
-          - Acting as lead for the group of Data Scientists, Data Engineers, Content Experts
+          - Ebility to lead the team as managing the team of Data Scientist, Data Engineers, Content Experts
           - Alongside, Exploring the new methods and improvements for the entire cycle of the Team.
-          -               
           
     - role: Senior Software Developer
       time: Feb 2019 - Aug 2019
