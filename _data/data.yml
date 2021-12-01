@@ -32,13 +32,7 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Tutorial Writing
-        link: https://www.dhamodharanrk.com/portfolio/blog/
-
-      - item: Blogs
-        link: https://sites.google.com/view/way2learnings/home
-        
-      - item: Cooking
+      - item:
         link:
 
     technicals:
