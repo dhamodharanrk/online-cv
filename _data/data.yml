@@ -37,9 +37,6 @@ sidebar:
 
       - item: Blogs
         link: https://sites.google.com/view/way2learnings/home
-        
-      - item: Cooking
-        link:
 
     technicals:
       - item: Python, Shell Programming, HTML, jinja2 
