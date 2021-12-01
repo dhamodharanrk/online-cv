@@ -54,11 +54,11 @@ career-profile:
       A dynamic and professional Data Engineer with excellent
       knowledge in analyzing large datasets, building, deploying, and Maintaining data
       support tools. Expertise in various technologies used for ETL Process & Data Analitycs with utilizing technologies like Python, Spacy, Apache Airflow.
-      Possess excellent domain knowledge and leadership skills as leading the team on the technological front.
+      Possess excellent domain knowledge and leadership skills to handle the team as well.
 
 education:
     - degree: BE Computer Science and Engineering
-      university: Kumaraguru College of Technology
+      university: Kumaraguru College of Technology, Coimbatore
       time: 2012 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -71,7 +71,7 @@ education:
           - Bullet point
 
     - degree: Diploma in Computer Engineering
-      university: PSG Polytechnic College
+      university: PSG Polytechnic College, Coimbatore
       time: 2009 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,7 +84,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Senior Software Developer (Python)
+    - role: Senior Software Developer (Data Analytics)
       time: Aug 2019 - Till date
       company: UST Global, Bangalore
       details: |
@@ -100,12 +100,12 @@ experiences:
           - Experience in developing and configuring the Apache Airflow based Pipelines
           - Experience in developing API Services and Front-end Applications using Flask and Django
           - Good understanding of deploying and managing the services on Linux machines
-          - Deployed services like Apache Airflow, label Studio, Django
+          - Deployed services like Apache Airflow, label Studio, Django, and flask
           - Experience in working with multiple databases like MySQL, Mongo, PostgreSQL
           - Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc...
-          - Working experience in Agile & Ticketing based environments (Jira, Service Now, bitbucket, Git)
-          - Experience in Team Management as leading the team of Text Analytics group consists of Data Scientist, Data Engineers, Content Experts
-          - Alongside, Exploring the methods and technologies for improving and optimizing the solutions provided or developed
+          - Working experience in Agile & Ticket based environments (Jira, Service Now, bitbucket, Git)
+          - Experience in project tracking and team managements
+          - Alongside, Exploring the methods and technologies for improving and optimizing the solutions provided or for the methods implemented earlier 
           
     - role: Senior Software Developer (Python)
       time: Feb 2019 - Aug 2019
@@ -133,14 +133,13 @@ experiences:
         for high complex websites and building futuristic platforms for effective data retrieval.
         
           - Sound knowledge in e-commerce dataset
-          - Developed methods using the custom framework for data extraction
-          - Worked on a multilingual dataset and top retailers websites in the current market
-          - Worked on multiple automation tasks which include larger data processing and validation
-          - Handled complete cycle of the projects includes Scheduling, Monitoring, exporting, Validating, Data Processing and delivering it to client
+          - Developed multiple data parsing methods using the custom framework
+          - Experiance in handling multilingual dataset & well experianced in most of the top e-commerce websites
+          - Worked on multiple automation tasks which include larger data processing, autometed data validation and QA
+          - Experince to handle the client deliveries by completing entire life cycle of the task like Scheduling, Monitoring, Exporting and Validating
           - Implemented end-to-end automated solutions for projects having multiple stages
           - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
           - Closely worked with multiple technology teams for platform improvements and testing
-          - Worked with the team of 10 members and handled critical developments (L3)
           - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
           - Provided continuous training for executive teams and the development teams for technology changes
 
@@ -182,32 +181,30 @@ experiences:
         
           - EDGE
               - Its an application to provide insights about the authors, institutes and their reaearch 
-              - Implemented end to end solution to extract and processing the data from various end points
-              - Using Python, Pandas, MySQL, MongoDB
+              - Implemented end to end solution to extract and process the data from various data end points
+              - Technology Stack : Python, Pandas, MySQL, MongoDB and other python libraries 
 
           - AIMS
-              - Sound knowledge in the legal dataset as worked on more than 300 websites
-              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+              - Its an single source to monitor multiple BioMedical Data sources and get insights out of it.
+              - Designed and implemented pipelines to process data from various sources using single Framework on top of Apache Airflow
+              - Developed complete customized Framework to extract and process news data from various domains
+              - Implemented common functionolty used by all the team members.
+              - Technology Stack : Python, Apache Airflow, Pandas, Spacy, and many more other libraries
               
           - Covid19 Dashboard
-              - Sound knowledge in multiple data sources.
-              - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
+              - Provides complete insights about the covid19
+              - Responsable for developing and providing support to data pipelines for the Dashboard
+              - Technology Stack : Python, Pandas, Airflow, MySQL, MongoDB
               
           - Daily News Alerts
-              - Sound knowledge in the legal dataset as worked on more than 300 websites
-              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+              - Extracting news from various sources and providing daily data delivery to multiple teams
+              - Responsble to automate end to end pipelines to ensure break free data delivery
+              - Technology Stack : Python, Pandas, cron jobs, MongoDB
               
-          - Adhoc Projects
-              - Sound knowledge in the legal dataset as worked on more than 300 websites
-              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
-
-          - Visualization Projects
-              - Build a customized data mining platform with a stack of python libraries
-              - Provides rich front-end for configuring the domains
-              
-          - Automation Projects
-              - Sound knowledge in the legal dataset as worked on more than 300 websites
-              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+          - Adhoc & Automation Projects
+              - Supported multiple Adhoc or one time projects from various teams
+              - Worked with multiple technologies such as Data Processing, Visualization and Data Mining 
+              - Technology Stack : Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy and more
 
 publications:
     title: Certifictaions
