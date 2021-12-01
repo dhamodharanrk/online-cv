@@ -39,13 +39,11 @@ sidebar:
         link: https://sites.google.com/view/way2learnings/home
 
     technicals:
-      - item: Python, Shell Programming
+        
+      - item: Python, Shell Programming, Pandas, beautifulsoup4
         link: 
         
-      - item: Pandas, beautifulsoup4, Django, Spacy, Plotly & More
-        link: 
-        
-      - item: MySQL, MongoDB, PostgreSQL
+      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly & More
         link: 
 
 career-profile:
