@@ -32,12 +32,20 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Tutorial Writing & Blogs
-        link: https://www.dhamodharanrk.com/
+      - item: Tutorial Writing
+        link: https://www.dhamodharanrk.com/portfolio/blog/
+
+      - item: Blogs
+        link: https://sites.google.com/view/way2learnings/home
+        
+      - item: Cooking
+        link:
 
     technicals:
+      - item: Python, Shell Programming, HTML, jinja2 
+        link: 
         
-      - item: Python, Shell Programming, Pandas, beautifulsoup4, MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly & More
+      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly, Pandas, beautifulsoup4, and More
         link: 
 
 career-profile:
