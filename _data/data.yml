@@ -174,34 +174,43 @@ experiences:
       time: Jan 2016 - Till Date
       company: Summary of the projects worked on
       details: |
-        As a Python Programmer, involved in various projects as team and indepented contributer
+        As Python Programmer, Worked on multiple individual projects and Team Projects
         
           - EDGE
-              - Its an application to provide insights about the authors, institutes and their reaearch 
-              - Implemented end to end solution to extract and process the data from various data end points
-              - Technology Stack : Python, Pandas, MySQL, MongoDB and other python libraries 
+              - Its an application to provide insights about the authors, institutes, and their research 
+              - Implemented end to end solution to extract and process the data from various data endpoints
+              - Technology Stack: Python, Pandas, MySQL, MongoDB, and other python libraries 
 
           - AIMS
-              - Its an single source to monitor multiple BioMedical Data sources and get insights out of it.
-              - Designed and implemented pipelines to process data from various sources using single Framework on top of Apache Airflow
-              - Developed complete customized Framework to extract and process news data from various domains
-              - Implemented common functionolty used by all the team members.
-              - Technology Stack : Python, Apache Airflow, Pandas, Spacy, and many more other libraries
+              - It's a single source to monitor multiple BioMedical Data sources and get insights out of it.
+              - Designed and implemented pipelines to process data from various sources using a single Framework on top of Apache Airflow
+              - Developed a complete customized Framework to extract and process news data from various domains
+              - Implemented common functionality used by all the team members.
+              - Technology Stack: Python, Apache Airflow, Pandas, Spacy, and many more other libraries
               
           - Covid19 Dashboard
               - Provides complete insights about the covid19
-              - Responsable for developing and providing support to data pipelines for the Dashboard
-              - Technology Stack : Python, Pandas, Airflow, MySQL, MongoDB
+              - Responsible for developing and providing support to data pipelines for the Dashboard
+              - Technology Stack: Python, Pandas, Airflow, MySQL, MongoDB
               
           - Daily News Alerts
               - Extracting news from various sources and providing daily data delivery to multiple teams
-              - Responsble to automate end to end pipelines to ensure break free data delivery
-              - Technology Stack : Python, Pandas, cron jobs, MongoDB
+              - Responsible to automate end to end pipelines to ensure break free data delivery
+              - Technology Stack: Python, Pandas, cron jobs, MongoDB
               
           - Adhoc & Automation Projects
               - Supported multiple Adhoc or one time projects from various teams
-              - Worked with multiple technologies such as Data Processing, Visualization and Data Mining 
-              - Technology Stack : Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy and more
+              - Worked with multiple technologies such as Data Processing, Visualization, and Data Mining 
+              - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy, and more
+
+          - PPTS
+              - Legal Data insights platform
+              - Supported to build an infrastructure to handle large datasets and extract data from plenty of sources
+              - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Spacy, Flask, and Django 
+
+          - Ugam Solutions
+              - Worked for extracting data from Amazon, Sears, Jet, Walmart, and so many e-commerce websites
+              - Technology Stack: Python, Hbase, Hadoop, and other distributed concepts
 
 publications:
     title: Certifictaions
@@ -243,17 +252,21 @@ projects:
         link: "https://pypi.org/project/MrCrop/"
         tagline: "Fast & accurate way of cropping faces from a batch of images in directory"
 
+      - title: Python Learning Platform
+        link: "https://www.dhamodharanrk.com/lets_learn/"
+        tagline: "Simple inititive to provide easy learning solution for begineers"
+        
       - title: MrMap
         link: "#"
         tagline: "Extract place names from a URL or text, and add context to those names"
 
       - title: MrScraper
         link: "#"
-        tagline: "A simple initiative for efficient web crawler to automate the process & reduce Time Complexity"
+        tagline: "Framework to extract and process data with minimal coding experience"
 
       - title: View More
         link: "https://www.dhamodharanrk.com/portfolio/projects/"
-        tagline: "Simple Portfolio site to showcase the projects am working on"
+        tagline: "Website to showcase my working personal projects"
 
 skills:
     title: Skills &amp; Proficiency
