@@ -40,10 +40,7 @@ sidebar:
 
     technicals:
         
-      - item: Python, Shell Programming, Pandas, beautifulsoup4
-        link: 
-        
-      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly & More
+      - item: Python, Shell Programming, Pandas, beautifulsoup4, MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly & More
         link: 
 
 career-profile:
