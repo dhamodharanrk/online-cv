@@ -42,7 +42,7 @@ sidebar:
       - item: Python, Shell Programming, HTML, jinja2 
         link: 
         
-      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly, Pandas, beautifulsoup4, and More
+      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly, Pandas, Pyspark, beautifulsoup4, and More
         link: 
 
 career-profile:
