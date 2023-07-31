@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dhamodharan K
-    tagline: Tech Lead | Data Analytics
+    tagline: Technical Lead, Data Analytics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,19 +39,20 @@ sidebar:
         link: https://sites.google.com/view/way2learnings/home
 
     technicals:
-      - item: Python, Shell Programming, HTML, jinja2 
+      - item: Python, HTML, Shell Scripts
         link: 
         
-      - item: MySQL, MongoDB, PostgreSQL, Django, Flask, Spacy, Plotly, Pandas, Pyspark, beautifulsoup4, and More
+      - item: Spacy, Pandas, Pyspark, Plotly, Celery, Dask
+        link: 
+        
+      - item: FastAPI, Django, Flask, Grafana, AWS, Google BigQuery, Azure
         link: 
 
 career-profile:
     title: Career Profile
     summary: |
-      A dynamic and professional Data Engineer with excellent
-      knowledge in analyzing large datasets, building, deploying, and Maintaining data
-      support tools. Expertise in various technologies used for ETL Process & Data Analitycs with utilizing technologies like Python, Spacy, Apache Airflow.
-      Possess excellent domain knowledge and leadership skills to handle the team as well.
+    Experienced Data Analytics Lead with a strong aptitude for analyzing extensive datasets and deploying advanced data support tools. Proficient in cutting-edge technologies, including AWS, Azure, and Google BigQuery, to drive efficient Data Engineering and Analytics processes. My domain knowledge and leadership skills enable me to lead teams effectively and contextualize data insights for strategic decision-making.
+    Dedicated to staying at the forefront of the industry, I am committed to continuous learning and consistently delivering exceptional results. My passion for data analytics drives transformative growth and innovation within organizations, making me a valuable asset for driving data-centric success.
 
 education:
     - degree: BE Computer Science and Engineering
