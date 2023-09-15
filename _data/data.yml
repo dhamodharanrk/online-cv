@@ -143,17 +143,17 @@ experiences:
 
         - Sound knowledge in e-commerce dataset
         - Developed multiple data parsing methods using the custom framework
-        - Experiance in handling multilingual dataset & well experianced in most of the top e-commerce websites
-        - Worked on multiple automation tasks which include larger data processing, autometed data validation and QA
+        - Experiance in handling multilingual datasets & well experianced in most of the top e-commerce websites
+        - Worked on multiple automation tasks which include larger data processing, automated data validation and QA
         - Experince to handle the client deliveries by completing entire life cycle of the task like Scheduling, Monitoring, Exporting and Validating
-        - Implemented end-to-end automated solutions for projects having multiple stages
+        - Implemented end-to-end automated solutions for projects with multiple stages
         - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
         - Closely worked with multiple technology teams for platform improvements and testing
         - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
         - Provided continuous training for executive teams and the development teams for technology changes
   - role: Domain Knowledge
     time: Jan 2016 - Till Date
-    company: Summary of the domain related experiances
+    company: Summary of the domain-related experiences
     details: >
       As a Python Programmer, solving and solved the challenging problems
       from the following areas
@@ -162,50 +162,50 @@ experiences:
             - Worked on custom developed Framework for Data Extraction based on Distributed Architecture
             - Developed more than 200 python Scripts for Data Extraction
             - Experience in handling Multilingual datasets
-            - Experience in various end-to-end automation on top of the e-commerce dataset
+            - Experience in various end-to-end automations on top of the e-commerce dataset
 
         - Legal
             - Sound knowledge in the legal dataset as worked on more than 300 websites
-            - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
-            - Handled automated data cleanings, validation, and matching
+            - Developed a & UI-based data platform for effective data retrieval
+            - Handled automated data cleaning, validation, and matching
             
         - Bio-Informatics
             - Sound knowledge in multiple data sources.
-            - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
+            - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, grants, Patent, etc.
             - Implemented methods to extract information like author, affiliation, and Products from text data using Python and SciSpacy
             - Experience in handling custom NER models for extracting keywords using Spacy
-            - Understanding of author networks & Collaborations
+            - Understanding of author networks and Collaborations
 
         - News Sources
             - Build a customized data mining platform with a stack of python libraries
-            - Provides rich front-end for configuring the domains
+            - A rich front-end for configuring the domains
             - Supports HTML, JSON, and RSS feeds
             - Extracting and parsing data from around 500 Domains on a daily basis
   - role: Official Projects
-    time: Jan 2016 - Till Date
+    time: Jan 2016- Till Date
     company: Summary of the projects worked on
     details: >
       As Python Programmer, Worked on multiple individual projects and Team
       Projects
 
-        - EDGE
+        - Project 1
             - Its an application to provide insights about the authors, institutes, and their research 
-            - Implemented end to end solution to extract and process the data from various data endpoints
+            - Implemented end-to-end solution to extract and process the data from various data endpoints
             - Technology Stack: Python, Pandas, MySQL, MongoDB, and other python libraries 
 
-        - AIMS
+        - Project 2
             - It's a single source to monitor multiple BioMedical Data sources and get insights out of it.
             - Designed and implemented pipelines to process data from various sources using a single Framework on top of Apache Airflow
             - Developed a complete customized Framework to extract and process news data from various domains
             - Implemented common functionality used by all the team members.
             - Technology Stack: Python, Apache Airflow, Pandas, Spacy, and many more other libraries
             
-        - Covid19 Dashboard
-            - Provides complete insights about the covid19
-            - Responsible for developing and providing support to data pipelines for the Dashboard
+        - Project 3
+            - Provides detailed information about the covid19
+            - Responsible for developing and providing support for data pipelines for the Dashboard
             - Technology Stack: Python, Pandas, Airflow, MySQL, MongoDB
             
-        - Daily News Alerts
+        - Project 4
             - Extracting news from various sources and providing daily data delivery to multiple teams
             - Responsible to automate end to end pipelines to ensure break free data delivery
             - Technology Stack: Python, Pandas, cron jobs, MongoDB
@@ -227,26 +227,26 @@ publications:
   title: Certifictaions
   intro: ""
   papers:
-    - title: Diploma in Python Programing
+    - title: Diploma in Python Programming
       authors: Beginner to Advanced Python Programmer
       conference: Shaw Academy
     - title: Data Science using Python
-      authors: Data Handling, Data Modelling & Machine Learning
-      conference: Analytixlabs, Bangalore.
-    - title: Diploma in Project Management - On Going
+      authors: Data Handling, Data modeling, and Machine Learning
+      conference: AnalytixLabs, Bangalore.
+    - title: Diploma in Project Management, Ongoing
       authors: Agile Project Management skills
       conference: Shaw Academy
-    - title: The Complete Python Pro Bootcamp for 2021 - On Going
+    - title: The Complete Python Pro Bootcamp for 2021, Ongoing
       authors: To Learn the latest Tools and Technologies used for various Python
         Programming
       conference: Udemy
-    - title: Spark and Python for Big Data with PySpark - On Going
+    - title: Spark and Python for Big Data with PySpark, Ongoing
       authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
       conference: Udemy
 projects:
   title: Personal Projects
   intro: >
-    Being curious about the latest technologies and passion towards programming, 
+    Being curious about the latest technologies and passionate about programming, 
   assignments:
     - title: MrSnippets
       link: https://pypi.org/project/MrSnippets/
@@ -256,10 +256,10 @@ projects:
       tagline: Fast & accurate way of cropping faces from a batch of images in directory
     - title: Python Learning Platform
       link: https://www.dhamodharanrk.com/lets_learn/
-      tagline: Simple inititive to provide easy learning solution for begineers
+      tagline: Simple initiative to provide easy learning solution for beginning learners
     - title: MrMap
       link: "#"
-      tagline: Extract place names from a URL or text, and add context to those names
+      tagline: Extract place names from a URL or text, and add context to those names.
     - title: MrScraper
       link: "#"
       tagline: Framework to extract and process data with minimal coding experience
@@ -275,7 +275,7 @@ skills:
       level: 91.5%
     - name: ETL Pipelines (Custom Frameworks, Apache Airflow , Luigi)
       level: 93.4%
-    - name: Web Development(Flask, Django, Open API)
+    - name: Web Development (Flask, Django, Open API)
       level: 41.6%
     - name: Machine Learning Models & Libraries
       level: 34.7%
