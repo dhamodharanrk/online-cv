@@ -50,9 +50,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-    Experienced Data Analytics Lead with a proven knack for delving into vast datasets and harnessing advanced data tools. Proficient in the latest technologies like AWS, Azure, and Google BigQuery, I excel at optimizing Data Engineering and Analytics workflows for maximum efficiency. My robust domain expertise and adept leadership abilities empower me to guide teams effectively, translating data insights into strategic decision-making.
-    I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
+    summary: | Experienced Data Analytics Lead with a proven knack for delving into vast datasets and harnessing advanced data tools. Proficient in the latest technologies like AWS, Azure, and Google BigQuery, I excel at optimizing Data Engineering and Analytics workflows for maximum efficiency. My robust domain expertise and adept leadership abilities empower me to guide teams effectively, translating data insights into strategic decision-making.I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
 
 education:
     - degree: BE Computer Science and Engineering
