@@ -51,9 +51,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Experienced Data Analytics Lead with a strong aptitude for analyzing extensive datasets and deploying advanced data support tools. Proficient in cutting-edge technologies, including AWS, Azure, and Google BigQuery, to drive efficient Data Engineering and Analytics processes. My domain knowledge and leadership skills enable me to lead teams effectively and contextualize data insights for strategic decision-making.
-    Dedicated to staying at the forefront of the industry, I am committed to continuous learning and consistently delivering exceptional results. My passion for data analytics drives transformative growth and innovation within organizations, making me a valuable asset for driving data-centric success.
-
+Experienced Data Analytics Lead with a proven knack for delving into vast datasets and harnessing advanced data tools. Proficient in the latest technologies like AWS, Azure, and Google BigQuery, I excel at optimizing Data Engineering and Analytics workflows for maximum efficiency. My robust domain expertise and adept leadership abilities empower me to guide teams effectively, translating data insights into strategic decision-making.
+I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
 education:
     - degree: BE Computer Science and Engineering
       university: Kumaraguru College of Technology, Coimbatore
@@ -86,21 +85,21 @@ experiences:
       time: Aug 2019 - Till date
       company: UST Global, Bangalore (Client, Merck KGaA Bangalore)
       details: |
-        As a member of the Data Analytics team, responsible for industrializing data feeds, creating pipelines into existing data systems, and facilitating connectivity of data and applied technologies between both external and internal data sources.
+        As a vital member of the Data Analytics team, my responsibilities encompass industrializing data feeds, crafting pipelines into established data systems, and fostering seamless connectivity between external and internal data sources, all while facilitating the integration of cutting-edge technologies.
 
-          - Handling complete life cycle of Data Collection, Data Processing, Data Analysis for a given set of business problems
-          - Hands-on experience in designing and developing customized Frameworks for effective Data Extraction and Analysis
-          - Hands-on experience in various automation activities using Python & Browser Automation with using PySelenium
-          - Well experienced in converting the business problems into workable technical Prototypes
-          - Hands-on experience in implementing custom NER methods to extract the entities from biomedical text data
-          - Experience in developing and configuring the Apache Airflow based Pipelines
-          - Experience in developing API Services and Front-end Applications using Flask and Django
-          - Good understanding of deploying and managing the services on Linux machines
-          - Deployed services like Apache Airflow, label Studio, Django, and flask
-          - Experience in working with multiple databases like MySQL, Mongo, PostgreSQL
-          - Working experience in Agile & Ticket based environments like Jira, bitbucket and Service Now
-          - Experience in project tracking and team managements & Extensive knowledge of data sources like PubMed, Scopus, clinicaltrials.org, etc
-          - Alongside, Exploring the methods and technologies for improving and optimizing the solutions provided or for the methods implemented earlier 
+          - Proficiently managing the complete life cycle of Data Collection, processing, and Analysis to address a range of business challenges
+          - Demonstrated expertise in designing and crafting customized frameworks to enhance Data Extraction and Analysis.
+          - Adept at automation, utilizing Python and Browser Automation through PySelenium to streamline various tasks.
+          - Proven ability to translate complex business problems into practical technical prototypes.
+          - Hands-on experience in implementing custom Named Entity Recognition (NER) methods to extract entities from biomedical text data.
+          - Proficiency in developing and configuring Apache Airflow-based pipelines for efficient data workflows.
+          - Skilled in creating API services and Front-end Applications using Flask and Django.
+          - Solid understanding of deploying and managing services on Linux machines.
+          - Successfully deployed services such as Apache Airflow, Label Studio, Django, and Flask.
+          - Versatility in working with multiple databases, including MySQL, MongoDB, and PostgreSQL.
+          - Familiarity with Agile methodologies and ticket-based environments like Jira, Bitbucket, and ServiceNow
+          - Extensive knowledge of data sources, including PubMed, Scopus, clinicaltrials.org, and more.
+          - Committed to ongoing exploration of methods and technologies to enhance and optimize solutions, both current and past.
           
     - role: Senior Software Developer (Python)
       time: Feb 2019 - Aug 2019
