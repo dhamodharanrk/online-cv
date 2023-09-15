@@ -74,21 +74,19 @@ experiences:
     time: Mar 2022 - Till Date
     company: Merck KGaA, Bangalore
     details: >+
-      As a vital member of the Data Analytics team, my responsibilities encompass industrializing data feeds, crafting pipelines into established data systems, and fostering seamless connectivity between external and internal data sources, all while facilitating the integration of cutting-edge technologies.
+       As a Data Analytics Lead, I spearhead the entire data life cycle, from collection to analysis, addressing a spectrum of business challenges. My role involves crafting custom data frameworks, pioneering NLP solutions for complex problems, and leveraging AI capabilities like ChatGPT for enhanced decision-making. I excel in deploying cutting-edge technologies, creating API services, and managing services on Linux machines while collaborating seamlessly with diverse teams to drive successful project execution.
 
-        - Proficiently managing the complete life cycle of Data Collection, processing, and Analysis to address a range of business challenges
-        - Demonstrated expertise in designing and crafting customized frameworks to enhance Data Extraction and Analysis.
-        - Adept at automation, utilizing Python and Browser Automation through PySelenium to streamline various tasks.
-        - Proven ability to translate complex business problems into practical technical prototypes.
-        - Hands-on experience in implementing custom Named Entity Recognition (NER) methods to extract entities from biomedical text data.
-        - Proficiency in developing and configuring Apache Airflow-based pipelines for efficient data workflows.
-        - Skilled in creating API services and Front-end Applications using Flask and Django.
-        - Solid understanding of deploying and managing services on Linux machines.
-        - Successfully deployed services such as Apache Airflow, Label Studio, Django, and Flask.
-        - Versatility in working with multiple databases, including MySQL, MongoDB, and PostgreSQL.
-        - Familiarity with Agile methodologies and ticket-based environments like Jira, Bitbucket, and ServiceNow
-        - Extensive knowledge of data sources, including PubMed, Scopus, clinicaltrials.org, and more.
-        - Committed to ongoing exploration of methods and technologies to enhance and optimize solutions, both current and past.
+        - Proficiently orchestrating the entire Data Collection, Processing, and Analysis life cycle to tackle diverse business challenges.
+        - Showcasing expertise in designing and tailoring bespoke frameworks to elevate Data Extraction and Analysis capabilities.
+        - Pioneering NLP solutions for intricate business dilemmas such as Q&A, Product Prediction, and keyword extraction.
+        - Demonstrating a knack for translating intricate business issues into pragmatic technical prototypes.
+        - Leveraging various cloud technologies like AWS, GCP, and Azure to develop and deploy applications.
+        - Mastering the creation of API services using cutting-edge technologies like FastAPI, Docker, Redis, Celery, and more.
+        - Ensuring seamless deployment and management of services on Linux machines, encompassing Docker and AWS environments.
+        - Adapting to a wide array of databases, including MySQL, MongoDB, PostgreSQL, Redis, and BigQuery.
+        - Possessing extensive expertise in diverse data sources, including Dimensions, Pitchbook, SocialGist, PubMed, Scopus, clinicaltrials.org, and others.
+        - Collaborating effectively with multiple teams, driving them towards successful project execution.
+        - Leveraging the capabilities of AI, such as ChatGPT, to enhance data-driven decision-making and provide valuable insights for complex problem-solving.
 
   - role: Lead I - Software Engineering (Data Analytics)
     time: Aug 2019 - Mar 2022
@@ -114,115 +112,107 @@ experiences:
     time: Feb 2019 - Aug 2019
     company: PPTS Pvt Ltd, Coimbatore
     details: >+
-      As a part of the Data Management and Python Automation Team, Supported
-      multiple automation projects to solve business problems and Developed
-      methods to automate end-to-end data extraction pipelines for effective
-      Data Retrieval and Management. Also, responsible for handling the client
-      requirements and managing the automation team
+        As a Senior member of the team, I have spearheaded critical initiatives within the Legal Domain, managing data extraction and analysis while optimizing data retrieval through a user-friendly UI platform. My role involves creating dynamic Python code templates, employing Image processing tools like OpenCV and Pillow, and implementing web browser automation for efficient data mining. I have also developed API services and custom Named Entity Recognition (NER) methods to extract user-related information. My contributions have significantly boosted production speeds and involved leading and training team members, managing multiple independent projects, and fostering collaborative team efforts.
 
-        - Handled Data extraction and Analysis for Legal Domain
-        - Developed and deployed UI Based Data extraction Platform for effective data retrieval from various websites
-        - Implemented dynamic, template-based Python Codes to reduce development efforts
-        - Experience in OpenCV and Pillow libraries for Image processing as supported front-end Team for detecting and Croping the human faces from the profile picture
-        - Implemented Web Browser based Automation using Node JS, Selenium to perform various operations data mining automation
-        - Implemented API Services to provide data services to other Applications & teams
-        - Developed custom NER method to extraction user-related information like Name, Qualification, Job Title using Spacy
-        - With all together, improved the production speed of developing new domains from 4 per day to 10 per day
-        - Leading and Training the Team Members for the latest improvements in the technology front.
-        - Handling multiple independent projects and Team Projects
+        - Proficiently managed Data extraction and Analysis within the Legal Domain, delivering critical insights.
+        - Developed and deployed a user-friendly UI-based Data extraction Platform, streamlining data retrieval from diverse websites.
+        - Employed dynamic, template-based Python code, significantly reducing development efforts.
+        - Utilized OpenCV and Pillow libraries for Image processing, supporting the front-end team in detecting and cropping human faces from profile pictures.
+        - Implemented Web Browser-based Automation using Node.js and Selenium for efficient data mining automation.
+        - Established API Services to offer data services to other applications and teams.
+        - Designed a custom Named Entity Recognition (NER) method using Spacy to extract user-related information such as names, qualifications, and job titles.
+        - Achieved a substantial increase in the production speed, scaling up from 4 new domains per day to an impressive 10 per day.
+        - Actively led and trained team members to stay updated with the latest technological advancements.
+        - Effectively managed multiple independent projects and collaborative team endeavors.
         
         
   - role: Software Engineer (Python)
     time: Jan 2016 - Jan 2019
     company: Ugam Solutions Pvt Ltd, Coimbatore
     details: >
-      As a part of the Infrastructure Development & Support team, Developing
-      and managing data extraction 
-
-      for high complex websites and building futuristic platforms for effective data retrieval.
-
-        - Sound knowledge in e-commerce dataset
-        - Developed multiple data parsing methods using the custom framework
-        - Experiance in handling multilingual datasets & well experianced in most of the top e-commerce websites
-        - Worked on multiple automation tasks which include larger data processing, automated data validation and QA
-        - Experince to handle the client deliveries by completing entire life cycle of the task like Scheduling, Monitoring, Exporting and Validating
-        - Implemented end-to-end automated solutions for projects with multiple stages
-        - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
-        - Closely worked with multiple technology teams for platform improvements and testing
-        - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
-        - Provided continuous training for executive teams and the development teams for technology changes
-  - role: Domain Knowledge
+      As a Data Engineer with extensive experience, my role encompasses:
+      
+        - Profound expertise in e-commerce datasets, leveraging this knowledge for insightful data analysis.
+        - Development of multiple data parsing methods using a customized framework for efficient data extraction.
+        - Handling multilingual datasets and deep familiarity with leading e-commerce websites.
+        - Execution of automation tasks, including extensive data processing, automated data validation, and quality assurance.
+        - End-to-end client project management, from scheduling and monitoring to exporting and validating results.
+        - Implementation of comprehensive automated solutions for projects with complex multi-stage workflows.
+        - Effective use of technologies like Node.js and Selenium for data retrieval and browser automation.
+        - Collaborative work with multiple technology teams, contributing to platform improvements and rigorous testing.
+        - Conducting both manual and automated code auditing and data auditing as part of a platform migration from V1 to V2.
+        - Providing continuous training and guidance to executive and development teams to facilitate smooth transitions and keep up with evolving technologies.
+  - role: Expertise and Domain Knowledge
     time: Jan 2016 - Till Date
-    company: Summary of the domain-related experiences
+    company: Illustrating my extensive experience and proficiency across diverse domains.
     details: >
-      As a Python Programmer, solving and solved the challenging problems
-      from the following areas
+      As a Python Programmer, my expertise spans a wide array of challenging problem-solving areas:
 
         - E-commerce
-            - Worked on custom developed Framework for Data Extraction based on Distributed Architecture
-            - Developed more than 200 python Scripts for Data Extraction
-            - Experience in handling Multilingual datasets
-            - Experience in various end-to-end automations on top of the e-commerce dataset
+            - Designed a custom framework for Data Extraction, optimized for distributed architecture.
+            - Developed over 200 Python scripts tailored for precise Data Extraction.
+            - Proficient in managing Multilingual datasets.
+            - Executed various end-to-end automations on diverse e-commerce datasets.
 
         - Legal
-            - Sound knowledge in the legal dataset as worked on more than 300 websites
-            - Developed a & UI-based data platform for effective data retrieval
-            - Handled automated data cleaning, validation, and matching
+            - Possess comprehensive knowledge of legal datasets, having worked on over 300 websites.
+            - Created a user-friendly UI-based data platform to enhance data retrieval efficiency.
+            - Managed automated data cleaning, validation, and matching processes.
             
-        - Bio-Informatics
-            - Sound knowledge in multiple data sources.
-            - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, grants, Patent, etc.
-            - Implemented methods to extract information like author, affiliation, and Products from text data using Python and SciSpacy
-            - Experience in handling custom NER models for extracting keywords using Spacy
-            - Understanding of author networks and Collaborations
+        - Life Science (Research Outputs)
+            - Deep understanding of multiple data sources in bioinformatics.
+            - Extracted data from diverse sources, including PubMed, Clinical trials, Scopus, grants, and patents.
+            - Implemented methods to extract information such as author details, affiliations, and products from text data.
+            - Proficient in handling custom NLP Models.
+            - Deep experience with paid datasets like Dimensions, Pitchbook, SocialGist
+            - Familiarity with author networks and collaborations in the field.
 
         - News Sources
-            - Build a customized data mining platform with a stack of python libraries
-            - A rich front-end for configuring the domains
-            - Supports HTML, JSON, and RSS feeds
-            - Extracting and parsing data from around 500 Domains on a daily basis
-  - role: Official Projects
+            - Constructed a customized data mining platform employing a stack of Python libraries.
+            - Developed a feature-rich front-end for configuring domains.
+            - Supported data extraction from HTML, JSON, and RSS feeds.
+            - Successfully extracted and parsed data from approximately 500 domains on a daily basis.
+            
+  - role: Portfolio of Project Engagements
     time: Jan 2016- Till Date
-    company: Summary of the projects worked on
+    company: Highlighting my contributions and expertise in various domains and technologies.
     details: >
-      As Python Programmer, Worked on multiple individual projects and Team
-      Projects
+        As a Python Programmer, I've been involved in a multitude of individual and team projects, each presenting unique challenges and opportunities for innovation:
 
-        - Project 1
-            - Its an application to provide insights about the authors, institutes, and their research 
-            - Implemented end-to-end solution to extract and process the data from various data endpoints
-            - Technology Stack: Python, Pandas, MySQL, MongoDB, and other python libraries 
+        - Project 1, Research Insights Application
+            - Developed an application to provide insights about authors, institutes, and their research.
+            - Implemented an end-to-end solution for data extraction and processing from various data endpoints.
+            - Technology Stack; Python, Pandas, MySQL, MongoDB, and other Python libraries.
 
-        - Project 2
-            - It's a single source to monitor multiple BioMedical Data sources and get insights out of it.
-            - Designed and implemented pipelines to process data from various sources using a single Framework on top of Apache Airflow
-            - Developed a complete customized Framework to extract and process news data from various domains
-            - Implemented common functionality used by all the team members.
-            - Technology Stack: Python, Apache Airflow, Pandas, Spacy, and many more other libraries
+        - Project 2, Biomedical Data Monitoring and Insights
+            - Designed a centralized platform to monitor multiple biomedical data sources and extract insights.
+            - Created pipelines to process data from various sources using a custom framework on top of Apache Airflow.
+            - Developed a customized framework for news data extraction from diverse domains.
+            - Implemented common functionality for team-wide use.
+            - Technology Stack; Python, Apache Airflow, Pandas, Spacy, and other relevant libraries.
             
-        - Project 3
-            - Provides detailed information about the covid19
-            - Responsible for developing and providing support for data pipelines for the Dashboard
-            - Technology Stack: Python, Pandas, Airflow, MySQL, MongoDB
+        - Project 3, COVID-19 Dashboard
+            - Contributed to the development and maintenance of data pipelines for a detailed COVID-19 dashboard.
+            - Technology Stack; Python, Pandas, Airflow, MySQL, MongoDB.B
             
-        - Project 4
-            - Extracting news from various sources and providing daily data delivery to multiple teams
-            - Responsible to automate end to end pipelines to ensure break free data delivery
-            - Technology Stack: Python, Pandas, cron jobs, MongoDB
+        - Project 4, News Data Extraction
+            - Extracted news from various sources and facilitated daily data delivery to multiple teams.
+            - Automated end-to-end pipelines to ensure uninterrupted data delivery.
+            - Technology Stack; Python, Pandas, cron jobs, MongoDB.
             
         - Adhoc & Automation Projects
-            - Supported multiple Adhoc or one time projects from various teams
-            - Worked with multiple technologies such as Data Processing, Visualization, and Data Mining 
-            - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy, and more
-
-        - PPTS
-            - Legal Data insights platform
-            - Supported to build an infrastructure to handle large datasets and extract data from plenty of sources
-            - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Spacy, Flask, and Django 
+            - Supported various adhoc and one-time projects across multiple teams.
+            - Leveraged various technologies for data processing, visualization, and data mining.
+            - Technology Stack; Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, SciSpacy, Spacy, and more
+            
+        - Legal Data Insights Platform
+            - Assisted in building an infrastructure capable of handling large datasets and extracting data from numerous sources.
+            - Technology Stack; Python, Pandas, cron jobs, MongoDB, MySQL, Spacy, Flask, and Django.
 
         - Ugam Solutions
-            - Worked for extracting data from Amazon, Sears, Jet, Walmart, and so many e-commerce websites
-            - Technology Stack: Python, Hbase, Hadoop, and other distributed concepts
+            - Collaborated on extracting data from major e-commerce websites like Amazon, Sears, Jet, and Walmart.
+            - Technology Stack; Python, Hbase, Hadoop, and other distributed concepts.
+
 publications:
   title: Certifictaions
   intro: ""
@@ -244,28 +234,22 @@ publications:
       authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
       conference: Udemy
 projects:
-  title: Personal Projects
+  title: Personal Projects and Ventures
   intro: >
-    Being curious about the latest technologies and passionate about programming, 
+    In addition to my professional work, I've also pursued several personal projects that reflect my passion for innovation and technology. These projects have allowed me to explore my creative side and develop new skills while tackling interesting challenges. Let's delve into some of these exciting endeavors 
   assignments:
     - title: MrSnippets
       link: https://pypi.org/project/MrSnippets/
-      tagline: A complete set of pre-defined code snippets to reduce development effort
+      tagline: Streamline Your Coding with Ready-to-Use Code Blocks – Boost Your Development Efficiency Today!
     - title: MrCrop
       link: https://pypi.org/project/MrCrop/
-      tagline: Fast & accurate way of cropping faces from a batch of images in directory
+      tagline: Efficient Batch Face Cropping; Quickly and Accurately Extract Faces from Image Directories
     - title: Python Learning Platform
       link: https://www.dhamodharanrk.com/lets_learn/
-      tagline: Simple initiative to provide easy learning solution for beginning learners
-    - title: MrMap
-      link: "#"
-      tagline: Extract place names from a URL or text, and add context to those names.
-    - title: MrScraper
-      link: "#"
-      tagline: Framework to extract and process data with minimal coding experience
+      tagline: An Initiative to Make Python Tutorials Easy and Accessible for Beginners.
     - title: View More
       link: https://www.dhamodharanrk.com/portfolio/projects/
-      tagline: Website to showcase my working personal projects
+      tagline: Explore My Portfolio of Creative Endeavors and Innovations.
 skills:
   title: Skills &amp; Proficiency
   toolset:
