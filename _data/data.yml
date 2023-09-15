@@ -112,7 +112,7 @@ experiences:
     time: Feb 2019 - Aug 2019
     company: PPTS Pvt Ltd, Coimbatore
     details: >+
-        As a Senior team member, I've led pivotal Legal Domain projects, optimizing data extraction, and analysis through a user-friendly UI platform. I create dynamic Python code, use image processing tools like OpenCV and Pillow, and employ web browser automation for efficient data mining. I've developed API services and custom NER methods, enhancing productivity, while also leading, training, and managing multiple projects.
+        As a Senior team member, I've led pivotal Legal Domain projects, optimizing data extraction and analysis through a user-friendly UI platform. I create dynamic Python code, use image processing tools like OpenCV and Pillow, and employ web browser automation for efficient data mining. I've developed API services and custom NER methods, enhancing productivity, while also leading, training, and managing multiple projects.
 
         - Proficiently managed Data extraction and Analysis within the Legal Domain, delivering critical insights.
         - Developed and deployed a user-friendly UI-based Data extraction Platform, streamlining data retrieval from diverse websites.
@@ -239,7 +239,7 @@ projects:
   assignments:
     - title: MrSnippets
       link: https://pypi.org/project/MrSnippets/
-      tagline: Streamline Your Coding with Ready-to-Use Code Blocks – Boost Your Development Efficiency Today!
+      tagline: Streamline Your Coding with Ready-to-Use Code Blocks—Boost Your Development Efficiency Today!
     - title: MrCrop
       link: https://pypi.org/project/MrCrop/
       tagline: Efficient Batch Face Cropping; Quickly and Accurately Extract Faces from Image Directories
@@ -254,18 +254,16 @@ skills:
   toolset:
     - name: Python Programming
       level: 92.5%
-    - name: Data Processing & Automation
+    - name: Data Pipelines and Data Engineering
       level: 91.5%
-    - name: ETL Pipelines (Custom Frameworks, Apache Airflow , Luigi)
-      level: 93.4%
-    - name: Web Development (Flask, Django, Open API)
-      level: 41.6%
-    - name: Machine Learning Models & Libraries
-      level: 34.7%
-    - name: Natural Language Processing (Spacy, NLP, Custom NER)
-      level: 50.7%
-    - name: Database Technologies (MongoDB, SQL, PostgreSQL)
-      level: 67.5%
+    - name: Database Technologies (Mongo, MySQL, Redis, BigQuery, PostgreSQL)
+      level: 90.4%
+    - name: Web Development / Dashboards (Django, Flask, Panel, Plotly)
+      level: 55.6%
+    - name: NLP & AI Technologies
+      level: 61.7%
+    - name: Cloud Technologies (AWS, GCP, Azure)
+      level: 47.5%
 footer: >
   Copyright @ <i class="fas fa-heart"></i> by <a
   href="https://www.dhamodharanrk.com/" target="_blank"
