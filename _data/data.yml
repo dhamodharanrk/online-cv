@@ -1,293 +1,279 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+---
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Dhamodharan K
-    tagline: Technical Lead, Data Analytics
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: dhamodharanrk@gmail.com
-    phone: +91 98940 28181
-    website: www.dhamodharanrk.com
-    linkedin:
-    github:
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow:
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: Tamil
-        level: Native
-
-      - idiom: English
-        level: Professional
-        
-    interests:
-      - item: Tutorial Writing
-        link: https://www.dhamodharanrk.com/portfolio/blog/
-
-      - item: Blogs
-        link: https://sites.google.com/view/way2learnings/home
-
-    technicals:
-      - item: Python, HTML, Shell Scripts
-        link: 
-        
-      - item: Spacy, Pandas, Pyspark, Plotly, Celery, Dask
-        link: 
-        
-      - item: FastAPI, Django, Flask, Grafana, AWS, Google BigQuery, Azure
-        link: 
-
+  about: false
+  education: true
+  name: Dhamodharan K
+  tagline: Technical Lead, Data Analytics
+  avatar: profile.png
+  email: dhamodharanrk@gmail.com
+  phone: +91 98940 28181
+  website: www.dhamodharanrk.com
+  linkedin: null
+  github: null
+  gitlab: null
+  bitbucket: null
+  twitter: null
+  stack-overflow: null
+  codewars: null
+  goodreads: null
+  languages:
+    - idiom: Tamil
+      level: Native
+    - idiom: English
+      level: Professional
+  interests:
+    - item: Tutorial Writing
+      link: https://www.dhamodharanrk.com/portfolio/blog/
+    - item: Blogs
+      link: https://sites.google.com/view/way2learnings/home
+  technicals:
+    - item: Python, HTML, Shell Scripts
+      link: null
+    - item: Spacy, Pandas, Pyspark, Plotly, Celery, Dask
+      link: null
+    - item: FastAPI, Django, Flask, Grafana, AWS, Google BigQuery, Azure
+      link: null
 career-profile:
-    title: Career Profile
-    summary: | Experienced Data Analytics Lead with a proven knack for delving into vast datasets and harnessing advanced data tools. Proficient in the latest technologies like AWS, Azure, and Google BigQuery, I excel at optimizing Data Engineering and Analytics workflows for maximum efficiency. My robust domain expertise and adept leadership abilities empower me to guide teams effectively, translating data insights into strategic decision-making.I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
+  title: Career Profile
+  summary: >
+    Experienced Data Analytics Lead with a proven knack for delving into
+    vast datasets and harnessing advanced data tools. Proficient in the latest
+    technologies like AWS, Azure, and Google BigQuery, I excel at optimizing
+    Data Engineering and Analytics workflows for maximum efficiency. My robust
+    domain expertise and adept leadership abilities empower me to guide teams
+    effectively, translating data insights into strategic decision-making.
 
+    I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
 education:
-    - degree: BE Computer Science and Engineering
-      university: Kumaraguru College of Technology, Coimbatore
-      time: 2012 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+  - degree: BE Computer Science and Engineering
+    university: Kumaraguru College of Technology, Coimbatore
+    time: 2012 - 2015
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+        - Bullet point
+        - Bullet point
+  - degree: Diploma in Computer Engineering
+    university: PSG Polytechnic College, Coimbatore
+    time: 2009 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
 
-    - degree: Diploma in Computer Engineering
-      university: PSG Polytechnic College, Coimbatore
-      time: 2009 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        - Bullet point
+        - Bullet point
 experiences:
-    - role: Lead I - Software Engineering (Data Analytics)
-      time: Aug 2019 - Mar 2022
-      company: UST Global, Bangalore (Client, Merck KGaA Bangalore)
-      details: |
-        Experienced Data Analytics Lead with a proven knack for delving into vast datasets and harnessing advanced data tools. Proficient in the latest technologies like AWS, Azure, and Google BigQuery, I excel at optimizing Data Engineering and Analytics workflows for maximum efficiency. My robust domain expertise and adept leadership abilities empower me to guide teams effectively, translating data insights into strategic decision-making.I am unwavering in my dedication to staying at the cutting edge of the industry, perpetually engaging in ongoing learning, and consistently delivering outstanding outcomes. My unbridled enthusiasm for data analytics fuels groundbreaking growth and innovation within organizations, rendering me an indispensable catalyst for data-driven success.
+  - role: Lead I - Software Engineering (Data Analytics)
+    time: Aug 2019 - Mar 2022
+    company: UST Global, Bangalore (Client, Merck KGaA Bangalore)
+    details: >+
+      Experienced Data Analytics Lead with a proven knack for delving into
+      vast datasets and harnessing advanced data tools. Proficient in the latest
+      technologies like AWS, Azure, and Google BigQuery, I excel at optimizing
+      Data Engineering and Analytics workflows for maximum efficiency. My robust
+      domain expertise and adept leadership abilities empower me to guide teams
+      effectively, translating data insights into strategic decision-making.I am
+      unwavering in my dedication to staying at the cutting edge of the
+      industry, perpetually engaging in ongoing learning, and consistently
+      delivering outstanding outcomes. My unbridled enthusiasm for data
+      analytics fuels groundbreaking growth and innovation within organizations,
+      rendering me an indispensable catalyst for data-driven success.
 
-          - Proficiently managing the complete life cycle of Data Collection, processing, and Analysis to address a range of business challenges
-          - Demonstrated expertise in designing and crafting customized frameworks to enhance Data Extraction and Analysis.
-          - Adept at automation, utilizing Python and Browser Automation through PySelenium to streamline various tasks.
-          - Proven ability to translate complex business problems into practical technical prototypes.
-          - Hands-on experience in implementing custom Named Entity Recognition (NER) methods to extract entities from biomedical text data.
-          - Proficiency in developing and configuring Apache Airflow-based pipelines for efficient data workflows.
-          - Skilled in creating API services and Front-end Applications using Flask and Django.
-          - Solid understanding of deploying and managing services on Linux machines.
-          - Successfully deployed services such as Apache Airflow, Label Studio, Django, and Flask.
-          - Versatility in working with multiple databases, including MySQL, MongoDB, and PostgreSQL.
-          - Familiarity with Agile methodologies and ticket-based environments like Jira, Bitbucket, and ServiceNow
-          - Extensive knowledge of data sources, including PubMed, Scopus, clinicaltrials.org, and more.
-          - Committed to ongoing exploration of methods and technologies to enhance and optimize solutions, both current and past.
-          
-    - role: Senior Software Developer (Python)
-      time: Feb 2019 - Aug 2019
-      company: PPTS Pvt Ltd, Coimbatore
-      details: |
-        As a part of the Data Management and Python Automation Team, Supported multiple automation projects to solve business problems and Developed methods to automate end-to-end data extraction pipelines for effective Data Retrieval and Management. Also, responsible for handling the client requirements and managing the automation team
+        - Proficiently managing the complete life cycle of Data Collection, processing, and Analysis to address a range of business challenges
+        - Demonstrated expertise in designing and crafting customized frameworks to enhance Data Extraction and Analysis.
+        - Adept at automation, utilizing Python and Browser Automation through PySelenium to streamline various tasks.
+        - Proven ability to translate complex business problems into practical technical prototypes.
+        - Hands-on experience in implementing custom Named Entity Recognition (NER) methods to extract entities from biomedical text data.
+        - Proficiency in developing and configuring Apache Airflow-based pipelines for efficient data workflows.
+        - Skilled in creating API services and Front-end Applications using Flask and Django.
+        - Solid understanding of deploying and managing services on Linux machines.
+        - Successfully deployed services such as Apache Airflow, Label Studio, Django, and Flask.
+        - Versatility in working with multiple databases, including MySQL, MongoDB, and PostgreSQL.
+        - Familiarity with Agile methodologies and ticket-based environments like Jira, Bitbucket, and ServiceNow
+        - Extensive knowledge of data sources, including PubMed, Scopus, clinicaltrials.org, and more.
+        - Committed to ongoing exploration of methods and technologies to enhance and optimize solutions, both current and past.
         
-          - Handled Data extraction and Analysis for Legal Domain
-          - Developed and deployed UI Based Data extraction Platform for effective data retrieval from various websites
-          - Implemented dynamic, template-based Python Codes to reduce development efforts
-          - Experience in OpenCV and Pillow libraries for Image processing as supported front-end Team for detecting and Croping the human faces from the profile picture
-          - Implemented Web Browser based Automation using Node JS, Selenium to perform various operations data mining automation
-          - Implemented API Services to provide data services to other Applications & teams
-          - Developed custom NER method to extraction user-related information like Name, Qualification, Job Title using Spacy
-          - With all together, improved the production speed of developing new domains from 4 per day to 10 per day
-          - Leading and Training the Team Members for the latest improvements in the technology front.
-          - Handling multiple independent projects and Team Projects
-          
-          
-    - role: Software Engineer (Python)
-      time: Jan 2016 - Jan 2019
-      company: Ugam Solutions Pvt Ltd, Coimbatore
-      details: |
-        As a part of the Infrastructure Development & Support team, Developing and managing data extraction 
-        for high complex websites and building futuristic platforms for effective data retrieval.
+  - role: Senior Software Developer (Python)
+    time: Feb 2019 - Aug 2019
+    company: PPTS Pvt Ltd, Coimbatore
+    details: >+
+      As a part of the Data Management and Python Automation Team, Supported
+      multiple automation projects to solve business problems and Developed
+      methods to automate end-to-end data extraction pipelines for effective
+      Data Retrieval and Management. Also, responsible for handling the client
+      requirements and managing the automation team
+
+        - Handled Data extraction and Analysis for Legal Domain
+        - Developed and deployed UI Based Data extraction Platform for effective data retrieval from various websites
+        - Implemented dynamic, template-based Python Codes to reduce development efforts
+        - Experience in OpenCV and Pillow libraries for Image processing as supported front-end Team for detecting and Croping the human faces from the profile picture
+        - Implemented Web Browser based Automation using Node JS, Selenium to perform various operations data mining automation
+        - Implemented API Services to provide data services to other Applications & teams
+        - Developed custom NER method to extraction user-related information like Name, Qualification, Job Title using Spacy
+        - With all together, improved the production speed of developing new domains from 4 per day to 10 per day
+        - Leading and Training the Team Members for the latest improvements in the technology front.
+        - Handling multiple independent projects and Team Projects
         
-          - Sound knowledge in e-commerce dataset
-          - Developed multiple data parsing methods using the custom framework
-          - Experiance in handling multilingual dataset & well experianced in most of the top e-commerce websites
-          - Worked on multiple automation tasks which include larger data processing, autometed data validation and QA
-          - Experince to handle the client deliveries by completing entire life cycle of the task like Scheduling, Monitoring, Exporting and Validating
-          - Implemented end-to-end automated solutions for projects having multiple stages
-          - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
-          - Closely worked with multiple technology teams for platform improvements and testing
-          - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
-          - Provided continuous training for executive teams and the development teams for technology changes
-
-    - role: Domain Knowledge
-      time: Jan 2016 - Till Date
-      company: Summary of the domain related experiances
-      details: |
-        As a Python Programmer, solving and solved the challenging problems from the following areas
         
-          - E-commerce
-              - Worked on custom developed Framework for Data Extraction based on Distributed Architecture
-              - Developed more than 200 python Scripts for Data Extraction
-              - Experience in handling Multilingual datasets
-              - Experience in various end-to-end automation on top of the e-commerce dataset
+  - role: Software Engineer (Python)
+    time: Jan 2016 - Jan 2019
+    company: Ugam Solutions Pvt Ltd, Coimbatore
+    details: >
+      As a part of the Infrastructure Development & Support team, Developing
+      and managing data extraction 
 
-          - Legal
-              - Sound knowledge in the legal dataset as worked on more than 300 websites
-              - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
-              - Handled automated data cleanings, validation, and matching
-              
-          - Bio-Informatics
-              - Sound knowledge in multiple data sources.
-              - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
-              - Implemented methods to extract information like author, affiliation, and Products from text data using Python and SciSpacy
-              - Experience in handling custom NER models for extracting keywords using Spacy
-              - Understanding of author networks & Collaborations
+      for high complex websites and building futuristic platforms for effective data retrieval.
 
-          - News Sources
-              - Build a customized data mining platform with a stack of python libraries
-              - Provides rich front-end for configuring the domains
-              - Supports HTML, JSON, and RSS feeds
-              - Extracting and parsing data from around 500 Domains on a daily basis
+        - Sound knowledge in e-commerce dataset
+        - Developed multiple data parsing methods using the custom framework
+        - Experiance in handling multilingual dataset & well experianced in most of the top e-commerce websites
+        - Worked on multiple automation tasks which include larger data processing, autometed data validation and QA
+        - Experince to handle the client deliveries by completing entire life cycle of the task like Scheduling, Monitoring, Exporting and Validating
+        - Implemented end-to-end automated solutions for projects having multiple stages
+        - Used multiple methods like NodeJs, Selenium for effective data retrieval and browser automation
+        - Closely worked with multiple technology teams for platform improvements and testing
+        - Done manual and automated code auditing and Data Auditing for Platform Migration from V1 to V2
+        - Provided continuous training for executive teams and the development teams for technology changes
+  - role: Domain Knowledge
+    time: Jan 2016 - Till Date
+    company: Summary of the domain related experiances
+    details: >
+      As a Python Programmer, solving and solved the challenging problems
+      from the following areas
 
-    - role: Official Projects
-      time: Jan 2016 - Till Date
-      company: Summary of the projects worked on
-      details: |
-        As Python Programmer, Worked on multiple individual projects and Team Projects
-        
-          - EDGE
-              - Its an application to provide insights about the authors, institutes, and their research 
-              - Implemented end to end solution to extract and process the data from various data endpoints
-              - Technology Stack: Python, Pandas, MySQL, MongoDB, and other python libraries 
+        - E-commerce
+            - Worked on custom developed Framework for Data Extraction based on Distributed Architecture
+            - Developed more than 200 python Scripts for Data Extraction
+            - Experience in handling Multilingual datasets
+            - Experience in various end-to-end automation on top of the e-commerce dataset
 
-          - AIMS
-              - It's a single source to monitor multiple BioMedical Data sources and get insights out of it.
-              - Designed and implemented pipelines to process data from various sources using a single Framework on top of Apache Airflow
-              - Developed a complete customized Framework to extract and process news data from various domains
-              - Implemented common functionality used by all the team members.
-              - Technology Stack: Python, Apache Airflow, Pandas, Spacy, and many more other libraries
-              
-          - Covid19 Dashboard
-              - Provides complete insights about the covid19
-              - Responsible for developing and providing support to data pipelines for the Dashboard
-              - Technology Stack: Python, Pandas, Airflow, MySQL, MongoDB
-              
-          - Daily News Alerts
-              - Extracting news from various sources and providing daily data delivery to multiple teams
-              - Responsible to automate end to end pipelines to ensure break free data delivery
-              - Technology Stack: Python, Pandas, cron jobs, MongoDB
-              
-          - Adhoc & Automation Projects
-              - Supported multiple Adhoc or one time projects from various teams
-              - Worked with multiple technologies such as Data Processing, Visualization, and Data Mining 
-              - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy, and more
+        - Legal
+            - Sound knowledge in the legal dataset as worked on more than 300 websites
+            - Developed Dynamic & UI Based Data Mining Platform for effective data retrieval
+            - Handled automated data cleanings, validation, and matching
+            
+        - Bio-Informatics
+            - Sound knowledge in multiple data sources.
+            - Working experience in extracting data from various sources like PubMed, Clinical trials, Scopus, Grant, Patent, etc.
+            - Implemented methods to extract information like author, affiliation, and Products from text data using Python and SciSpacy
+            - Experience in handling custom NER models for extracting keywords using Spacy
+            - Understanding of author networks & Collaborations
 
-          - PPTS
-              - Legal Data insights platform
-              - Supported to build an infrastructure to handle large datasets and extract data from plenty of sources
-              - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Spacy, Flask, and Django 
+        - News Sources
+            - Build a customized data mining platform with a stack of python libraries
+            - Provides rich front-end for configuring the domains
+            - Supports HTML, JSON, and RSS feeds
+            - Extracting and parsing data from around 500 Domains on a daily basis
+  - role: Official Projects
+    time: Jan 2016 - Till Date
+    company: Summary of the projects worked on
+    details: >
+      As Python Programmer, Worked on multiple individual projects and Team
+      Projects
 
-          - Ugam Solutions
-              - Worked for extracting data from Amazon, Sears, Jet, Walmart, and so many e-commerce websites
-              - Technology Stack: Python, Hbase, Hadoop, and other distributed concepts
+        - EDGE
+            - Its an application to provide insights about the authors, institutes, and their research 
+            - Implemented end to end solution to extract and process the data from various data endpoints
+            - Technology Stack: Python, Pandas, MySQL, MongoDB, and other python libraries 
 
+        - AIMS
+            - It's a single source to monitor multiple BioMedical Data sources and get insights out of it.
+            - Designed and implemented pipelines to process data from various sources using a single Framework on top of Apache Airflow
+            - Developed a complete customized Framework to extract and process news data from various domains
+            - Implemented common functionality used by all the team members.
+            - Technology Stack: Python, Apache Airflow, Pandas, Spacy, and many more other libraries
+            
+        - Covid19 Dashboard
+            - Provides complete insights about the covid19
+            - Responsible for developing and providing support to data pipelines for the Dashboard
+            - Technology Stack: Python, Pandas, Airflow, MySQL, MongoDB
+            
+        - Daily News Alerts
+            - Extracting news from various sources and providing daily data delivery to multiple teams
+            - Responsible to automate end to end pipelines to ensure break free data delivery
+            - Technology Stack: Python, Pandas, cron jobs, MongoDB
+            
+        - Adhoc & Automation Projects
+            - Supported multiple Adhoc or one time projects from various teams
+            - Worked with multiple technologies such as Data Processing, Visualization, and Data Mining 
+            - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Matplotlib, Plotly, Sci Spacy, Spacy, and more
+
+        - PPTS
+            - Legal Data insights platform
+            - Supported to build an infrastructure to handle large datasets and extract data from plenty of sources
+            - Technology Stack: Python, Pandas, cron jobs, MongoDB, MySQL, Spacy, Flask, and Django 
+
+        - Ugam Solutions
+            - Worked for extracting data from Amazon, Sears, Jet, Walmart, and so many e-commerce websites
+            - Technology Stack: Python, Hbase, Hadoop, and other distributed concepts
 publications:
-    title: Certifictaions
-    intro: |
-      
-    papers:
-
-      - title: Diploma in Python Programing
-        authors: Beginner to Advanced Python Programmer
-        conference: Shaw Academy
-
-      - title: Data Science using Python
-        authors: Data Handling, Data Modelling & Machine Learning
-        conference: Analytixlabs, Bangalore.
-        
-      - title: Diploma in Project Management - On Going
-        authors: Agile Project Management skills
-        conference: Shaw Academy
-        
-      - title: The Complete Python Pro Bootcamp for 2021 - On Going
-        authors: To Learn the latest Tools and Technologies used for various Python Programming
-        conference: Udemy
-        
-      - title: Spark and Python for Big Data with PySpark - On Going
-        authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
-        conference: Udemy
-
+  title: Certifictaions
+  intro: ""
+  papers:
+    - title: Diploma in Python Programing
+      authors: Beginner to Advanced Python Programmer
+      conference: Shaw Academy
+    - title: Data Science using Python
+      authors: Data Handling, Data Modelling & Machine Learning
+      conference: Analytixlabs, Bangalore.
+    - title: Diploma in Project Management - On Going
+      authors: Agile Project Management skills
+      conference: Shaw Academy
+    - title: The Complete Python Pro Bootcamp for 2021 - On Going
+      authors: To Learn the latest Tools and Technologies used for various Python
+        Programming
+      conference: Udemy
+    - title: Spark and Python for Big Data with PySpark - On Going
+      authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
+      conference: Udemy
 projects:
-    title: Personal Projects
-    intro: >
-      Being curious about the latest technologies and passion towards programming, 
-
-    assignments:
-      - title: MrSnippets
-        link: "https://pypi.org/project/MrSnippets/"
-        tagline: "A complete set of pre-defined code snippets to reduce development effort"
-        
-      - title: MrCrop
-        link: "https://pypi.org/project/MrCrop/"
-        tagline: "Fast & accurate way of cropping faces from a batch of images in directory"
-
-      - title: Python Learning Platform
-        link: "https://www.dhamodharanrk.com/lets_learn/"
-        tagline: "Simple inititive to provide easy learning solution for begineers"
-        
-      - title: MrMap
-        link: "#"
-        tagline: "Extract place names from a URL or text, and add context to those names"
-
-      - title: MrScraper
-        link: "#"
-        tagline: "Framework to extract and process data with minimal coding experience"
-
-      - title: View More
-        link: "https://www.dhamodharanrk.com/portfolio/projects/"
-        tagline: "Website to showcase my working personal projects"
-
+  title: Personal Projects
+  intro: >
+    Being curious about the latest technologies and passion towards programming, 
+  assignments:
+    - title: MrSnippets
+      link: https://pypi.org/project/MrSnippets/
+      tagline: A complete set of pre-defined code snippets to reduce development effort
+    - title: MrCrop
+      link: https://pypi.org/project/MrCrop/
+      tagline: Fast & accurate way of cropping faces from a batch of images in directory
+    - title: Python Learning Platform
+      link: https://www.dhamodharanrk.com/lets_learn/
+      tagline: Simple inititive to provide easy learning solution for begineers
+    - title: MrMap
+      link: "#"
+      tagline: Extract place names from a URL or text, and add context to those names
+    - title: MrScraper
+      link: "#"
+      tagline: Framework to extract and process data with minimal coding experience
+    - title: View More
+      link: https://www.dhamodharanrk.com/portfolio/projects/
+      tagline: Website to showcase my working personal projects
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python Programming
-        level: 92.5%
-
-      - name: Data Processing & Automation
-        level: 91.5%
-        
-      - name: ETL Pipelines (Custom Frameworks, Apache Airflow , Luigi)
-        level: 93.4%
-
-      - name: Web Development(Flask, Django, Open API)
-        level: 41.6%
-        
-      - name: Machine Learning Models & Libraries
-        level: 34.7%
-        
-      - name: Natural Language Processing (Spacy, NLP, Custom NER)
-        level: 50.7%
-        
-      - name: Database Technologies (MongoDB, SQL, PostgreSQL)
-        level: 67.5%
-
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Python Programming
+      level: 92.5%
+    - name: Data Processing & Automation
+      level: 91.5%
+    - name: ETL Pipelines (Custom Frameworks, Apache Airflow , Luigi)
+      level: 93.4%
+    - name: Web Development(Flask, Django, Open API)
+      level: 41.6%
+    - name: Machine Learning Models & Libraries
+      level: 34.7%
+    - name: Natural Language Processing (Spacy, NLP, Custom NER)
+      level: 50.7%
+    - name: Database Technologies (MongoDB, SQL, PostgreSQL)
+      level: 67.5%
 footer: >
-    Copyright @ <i class="fas fa-heart"></i> by <a href="https://www.dhamodharanrk.com/" target="_blank" rel="nofollow">Dhamodharan</a>
+  Copyright @ <i class="fas fa-heart"></i> by <a
+  href="https://www.dhamodharanrk.com/" target="_blank"
+  rel="nofollow">Dhamodharan</a>
