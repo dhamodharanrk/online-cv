@@ -27,11 +27,11 @@ sidebar:
     - item: Blogs
       link: https://sites.google.com/view/way2learnings/home
   technicals:
-    - item: Python, HTML, Shell Scripts
+    - item: Python, HTML, and Shell Scripts
       link: null
-    - item: Spacy, Pandas, Pyspark, Plotly, Celery, Dask
+    - item: Pandas, Transformers, LLMs, GPT Models (GPT 3.5 Turbo, BioGPT,RedPajama)
       link: null
-    - item: FastAPI, Django, Flask, Grafana, AWS, Google BigQuery, Azure
+    - item: FastAPI, Redis, Celery, Django, Flask, Grafana, AWS, Google BigQuery, Azure
       link: null
 career-profile:
   title: Career Profile
