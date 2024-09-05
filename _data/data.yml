@@ -75,7 +75,8 @@ experiences:
     company: Merck KGaA, Bangalore
     details: >+
        As a Data Analytics Lead, I spearhead the entire data life cycle, from collection to analysis, addressing a spectrum of business challenges. My role involves crafting custom data frameworks, pioneering NLP solutions for complex problems, and leveraging AI capabilities like ChatGPT for enhanced decision-making. I excel in deploying cutting-edge technologies, creating API services, and managing services on Linux machines while collaborating seamlessly with diverse teams to drive successful project execution.
-
+        - Building custom OPENAI Based RAG Pipeliens, Chatbots and Question Answering, etc
+        - Expriance in Truelens Evaluation, Langfuse for LLM evaluation and tracing
         - Proficiently orchestrating the entire Data Collection, Processing, and Analysis life cycle to tackle diverse business challenges.
         - Showcasing expertise in designing and tailoring bespoke frameworks to elevate Data Extraction and Analysis capabilities.
         - Pioneering NLP solutions for intricate business dilemmas such as Q&A, Product Prediction, and keyword extraction.
