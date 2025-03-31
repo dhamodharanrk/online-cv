@@ -106,11 +106,11 @@ experiences:
         As a Senior team member, I have led pivotal Legal Domain projects, optimizing data extraction and analysis through a user-friendly UI platform. I create dynamic Python code, use image processing tools like OpenCV and Pillow, and employ web browser automation for efficient data mining. I've developed API services and custom NER methods, enhancing productivity, while also leading, training, and managing multiple projects.
       
         - Proficiently managed Data extraction and Analysis within the Legal Domain, delivering critical insights.
-        - Developed and deployed a user friendly UI based Data extraction Platform, streamlining data retrieval from diverse websites.
         - Employed dynamic, template based Python code, significantly reducing development efforts.
+        - Established API Services to offer data services to other applications and teams.
+        - Developed and deployed a user friendly UI based Data extraction Platform, streamlining data retrieval from diverse websites.
         - Utilized OpenCV and Pillow libraries for Image processing, supporting the frontend team in detecting and cropping human faces from profile pictures.
         - Implemented Web Browser-based Automation using Node.js and Selenium for efficient data mining automation.
-        - Established API Services to offer data services to other applications and teams.
         - Designed a custom Named Entity Recognition (NER) method using Spacy to extract user related information such as names, qualifications, and job titles.
         - Achieved a substantial increase in the production speed, scaling up from 4 new domains per day to an impressive 10 per day.
         - Actively led and trained team members to stay updated with the latest technological advancements.
