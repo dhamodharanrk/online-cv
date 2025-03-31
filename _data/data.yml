@@ -3,13 +3,13 @@ sidebar:
   about: false
   education: true
   name: Dhamodharan Karuppuswamy
-  tagline: Technical Lead, Data Analytics
+  tagline: AI/ML Engineer
   avatar: profile.png
   email: dhamodharanrk@gmail.com
   phone: +91 98940 28181
-  website: www.dhamodharanrk.com
-  linkedin: null
-  github: null
+  website: www.dhamodharanrk.in
+  linkedin: https://www.linkedin.com/in/dhamodharanrk/
+  github: https://github.com/dhamodharanrk
   gitlab: null
   bitbucket: null
   twitter: null
@@ -17,21 +17,21 @@ sidebar:
   codewars: null
   goodreads: null
   languages:
-    - idiom: Tamil
-      level: Native
     - idiom: English
       level: Professional
+    - idiom: Tamil
+      level: Native
   interests:
     - item: Tutorial Writing
       link: https://www.dhamodharanrk.com/portfolio/blog/
     - item: Blogs
       link: https://sites.google.com/view/way2learnings/home
   technicals:
-    - item: Python, HTML, and Shell Scripts
+    - item: Python
       link: null
-    - item: Pandas, Transformers, LLMs, GPT Models (GPT 3.5 Turbo, BioGPT,RedPajama)
+    - item: Data Engineering, Text Analytics
       link: null
-    - item: FastAPI, Redis, Celery, Django, Flask, Grafana, AWS, Google BigQuery, Azure
+    - item: DevOps, LLM Developments
       link: null
 career-profile:
   title: Career Profile
