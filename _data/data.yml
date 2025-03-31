@@ -102,8 +102,8 @@ experiences:
   - role: Senior Software Engineer
     time: Feb 2019 - Aug 2019
     company: PPTS Pvt Ltd, Coimbatore
-    details: >+
-        As a Senior team member, I have led pivotal Legal Domain projects, optimizing data extraction and analysis through a user-friendly UI platform. I create dynamic Python code, use image processing tools like OpenCV and Pillow, and employ web browser automation for efficient data mining. I've developed API services and custom NER methods, enhancing productivity, while also leading, training, and managing multiple projects.
+    details: >
+      As a Senior team member, I have led pivotal Legal Domain projects, optimizing data extraction and analysis through a user-friendly UI platform. I create dynamic Python code, use image processing tools like OpenCV and Pillow, and employ web browser automation for efficient data mining. I've developed API services and custom NER methods, enhancing productivity, while also leading, training, and managing multiple projects.
       
         - Proficiently managed Data extraction and Analysis within the Legal Domain, delivering critical insights.
         - Employed dynamic, template based Python code, significantly reducing development efforts.
@@ -115,7 +115,7 @@ experiences:
         - Achieved a substantial increase in the production speed, scaling up from 4 new domains per day to an impressive 10 per day.
         - Actively led and trained team members to stay updated with the latest technological advancements.
         - Effectively managed multiple independent projects and collaborative team endeavors.
-        
+      
   - role: Software Engineer
     time: Jan 2016 - Jan 2019
     company: Ugam Solutions Pvt Ltd, Coimbatore
