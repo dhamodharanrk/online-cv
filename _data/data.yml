@@ -24,7 +24,7 @@ sidebar:
   technicals:
     - item: Python, Data Engineering, AI/ML Solutions
       link: null
-    - item: AWS, Azure DevOps, IoC (CloudFormation)
+    - item: AWS, Azure DevOps, IaC (CloudFormation)
       link: null
     - item: API Development, Full-Stack
       link: null
