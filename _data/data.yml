@@ -33,7 +33,7 @@ career-profile:
   summary: >
     As a Senior ML Engineer with a robust background in Full Stack Development, I bring a versatile skill set to the realms of artificial intelligence and data engineering. My expertise encompasses AWS, Text Analysis, Retrieval-Augmented Generation (RAG), chatbot development, AI implementation, and comprehensive data engineering solutions.
 
-    <br><br>What sets me apart is my ability to quickly adapt to new technologies, keeping me at the forefront of the ever-evolving tech landscape. This adaptability, combined with my full-stack experience, allows me to tackle machine learning projects holistically, ensuring seamless integration from backend algorithms to user-facing applications.
+    <br>What sets me apart is my ability to quickly adapt to new technologies, keeping me at the forefront of the ever-evolving tech landscape. This adaptability, combined with my full-stack experience, allows me to tackle machine learning projects holistically, ensuring seamless integration from backend algorithms to user-facing applications.
 education:
   - degree: BE Computer Science and Engineering
     university: Kumaraguru College of Technology, Coimbatore
@@ -64,10 +64,11 @@ experiences:
     time: Mar 2022 - Till Date
     company: Merck KGaA, Bangalore
     details: >+
-       As a Senior ML Engineer at Merck KGaA, Darmstadt, Germany, I specialize in driving innovation in AI and machine learning, particularly in Large Language Models (LLMs) and advanced AI applications.
+       As a Senior ML Engineer at Merck KGaA, Darmstadt, Germany, I drive innovation in AI and machine learning, specializing in Large Language Models (LLMs) and cutting-edge AI applications. My key responsibilities and achievements include,
         - Developing large language model (LLM) use cases to support business needs, including Retrieval-Augmented Generation (RAG) pipelines, chatbots, and question-answering systems.
         - Experienced in LLM evaluation frameworks such as TrueLens and RAGAS.
         - Skilled in LLM tracing and observability using LangFuse.
+        - Experienced in OpenAI Specification to Develop Model APIs for LLMs
         - Utilizing various cloud technologies, including AWS, GCP, and Azure, for application development and deployment.
         - Mastering the creation of API services with advanced technologies like FastAPI, Docker, Redis, and Celery
         - Proficiently managing the complete data collection, processing, and analysis lifecycle to address diverse business challenges.
