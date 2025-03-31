@@ -64,20 +64,19 @@ experiences:
     time: Mar 2022 - Till Date
     company: Merck KGaA, Bangalore
     details: >+
-       As a Data Analytics Lead, I spearhead the entire data life cycle, from collection to analysis, addressing a spectrum of business challenges. My role involves crafting custom data frameworks, pioneering NLP solutions for complex problems, and leveraging AI capabilities like ChatGPT for enhanced decision-making. I excel in deploying cutting-edge technologies, creating API services, and managing services on Linux machines while collaborating seamlessly with diverse teams to drive successful project execution.
-        - Building custom OPENAI Based RAG Pipeliens, Chatbots and Question Answering, etc
-        - Expriance in Truelens Evaluation, Langfuse for LLM evaluation and tracing
-        - Proficiently orchestrating the entire Data Collection, Processing, and Analysis life cycle to tackle diverse business challenges.
-        - Showcasing expertise in designing and tailoring bespoke frameworks to elevate Data Extraction and Analysis capabilities.
-        - Pioneering NLP solutions for intricate business dilemmas such as Q&A, Product Prediction, and keyword extraction.
-        - Demonstrating a knack for translating intricate business issues into pragmatic technical prototypes.
-        - Leveraging various cloud technologies like AWS, GCP, and Azure to develop and deploy applications.
-        - Mastering the creation of API services using cutting-edge technologies like FastAPI, Docker, Redis, Celery, and more.
-        - Ensuring seamless deployment and management of services on Linux machines, encompassing Docker and AWS environments.
-        - Adapting to a wide array of databases, including MySQL, MongoDB, PostgreSQL, Redis, and BigQuery.
-        - Possessing extensive expertise in diverse data sources, including Dimensions, Pitchbook, SocialGist, PubMed, Scopus, clinicaltrials.org, and others.
-        - Collaborating effectively with multiple teams, driving them towards successful project execution.
-        - Leveraging the capabilities of AI, such as ChatGPT, to enhance data-driven decision-making and provide valuable insights for complex problem-solving.
+       As a Senior ML Engineer at Merck KGaA, Darmstadt, Germany, I specialize in driving innovation in AI and machine learning, particularly in Large Language Models (LLMs) and advanced AI applications.
+        - Developing large language model (LLM) use cases to support business needs, including Retrieval-Augmented Generation (RAG) pipelines, chatbots, and question-answering systems.
+        - Experienced in LLM evaluation frameworks such as TrueLens and RAGAS.
+        - Skilled in LLM tracing and observability using LangFuse.
+        - Utilizing various cloud technologies, including AWS, GCP, and Azure, for application development and deployment.
+        - Mastering the creation of API services with advanced technologies like FastAPI, Docker, Redis, and Celery
+        - Proficiently managing the complete data collection, processing, and analysis lifecycle to address diverse business challenges.
+        - Innovating natural language processing (NLP) solutions for complex business problems, including Q&A systems, product prediction, and keyword extraction.
+        - Demonstrating the ability to translate complex business issues into practical technical prototypes for research and development.
+        - Adapting to a wide range of databases, such as MySQL, MongoDB, PostgreSQL, Redis, and BigQuery.
+        - Collaborating effectively with cross-functional teams to ensure successful project execution.
+        - Possessing extensive expertise in various data sources, including Dimensions, PitchBook, SocialGist, PubMed, Scopus, clinicaltrials.org, and others.
+        - Leveraging AI capabilities, such as ChatGPT, to enhance data-driven decision-making and provide valuable insights for solving complex problems.
 
   - role: Lead I - Software Engineering (Data Analytics)
     time: Aug 2019 - Mar 2022
@@ -167,7 +166,7 @@ experiences:
     time: Jan 2016- Till Date
     company: Highlighting my contributions and expertise in various domains and technologies.
     details: >
-        As a Python Programmer, I've been involved in a multitude of individual and team projects, each presenting unique challenges and opportunities for innovation:
+        As a Python Programmer with a strong background in AI, AWS, and data engineering, I have contributed to a variety of individual and team projects, each presenting unique challenges and opportunities for innovation in pipeline development and data-driven solutions
 
         - Project 1, Research Insights Application
             - Developed an application to provide insights about authors, institutes, and their research.
@@ -189,6 +188,16 @@ experiences:
             - Extracted news from various sources and facilitated daily data delivery to multiple teams.
             - Automated end-to-end pipelines to ensure uninterrupted data delivery.
             - Technology Stack; Python, Pandas, cron jobs, MongoDB.
+        
+        - Project 5, Customer Support Assistant
+            - Developed an assistant chatbot leveraging the Retrieval-Augmented Generation (RAG) framework.
+            - Implemented end-to-end chatbot development for enhanced customer interactions.
+            - Technology Stack; Python, Langfuse, Langchain, Ragas, Truelens, Langdock, GPT.
+
+        - Project 6, Oligo Sequence Analysis
+            - Contributed Development of Oligo Sequence Analysis Application.
+            - Handled end-to-end DevOps role.
+            - Technology Stack; Python, CloudFromation, Lambda, AWS Batch, Palantir Foundry, Azure DevOps
             
         - Adhoc & Automation Projects
             - Supported various adhoc and one-time projects across multiple teams.
@@ -213,16 +222,9 @@ publications:
     - title: Data Science using Python
       authors: Data Handling, Data modeling, and Machine Learning
       conference: AnalytixLabs, Bangalore.
-    - title: Diploma in Project Management, Ongoing
+    - title: Diploma in Project Management
       authors: Agile Project Management skills
       conference: Shaw Academy
-    - title: The Complete Python Pro Bootcamp for 2021, Ongoing
-      authors: To Learn the latest Tools and Technologies used for various Python
-        Programming
-      conference: Udemy
-    - title: Spark and Python for Big Data with PySpark, Ongoing
-      authors: Spark Streaming, Machine Learning, Spark 2.0 DataFrames, and more
-      conference: Udemy
 projects:
   title: Personal Projects and Ventures
   intro: >
@@ -235,27 +237,27 @@ projects:
       link: https://pypi.org/project/MrCrop/
       tagline: Efficient Batch Face Cropping; Quickly and Accurately Extract Faces from Image Directories
     - title: Python Learning Platform
-      link: https://www.dhamodharanrk.com/lets_learn/
+      link: https://www.dhamodharanrk.in/lets_learn/
       tagline: An Initiative to Make Python Tutorials Easy and Accessible for Beginners.
     - title: View More
-      link: https://www.dhamodharanrk.com/portfolio/projects/
+      link: https://www.dhamodharanrk.in/portfolio/projects/
       tagline: Explore My Portfolio of Creative Endeavors and Innovations.
 skills:
   title: Skills &amp; Proficiency
   toolset:
     - name: Python Programming
       level: 92.5%
-    - name: Data Pipelines and Data Engineering
+    - name: Data Engineering & Data Pipelines
       level: 91.5%
-    - name: Database Technologies (Mongo, MySQL, Redis, BigQuery, PostgreSQL)
+    - name: AI & Ml Technologies
       level: 90.4%
-    - name: Web Development / Dashboards (Django, Flask, Panel, Plotly)
-      level: 55.6%
-    - name: NLP & AI Technologies
-      level: 61.7%
     - name: Cloud Technologies (AWS, GCP, Azure)
-      level: 47.5%
+      level: 60.6%
+    - name: Database Technologies (Mongo, MySQL, Redis, BigQuery, PostgreSQL)
+      level: 61.7%
+    - name: Others (FastAPI, Streamlit, Etc.)
+      level: 57.5%
 footer: >
   Copyright @ <i class="fas fa-heart"></i> by <a
-  href="https://www.dhamodharanrk.com/" target="_blank"
-  rel="nofollow">Dhamodharan</a>
+  href="https://www.dhamodharanrk.in/" target="_blank"
+  rel="nofollow">Dhamodharan Karuppuswamy</a>
