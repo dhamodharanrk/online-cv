@@ -21,17 +21,12 @@ sidebar:
       level: Professional
     - idiom: Tamil
       level: Native
-  interests:
-    - item: Tutorial Writing
-      link: https://www.dhamodharanrk.com/portfolio/blog/
-    - item: Blogs
-      link: https://sites.google.com/view/way2learnings/home
   technicals:
-    - item: Python
+    - item: Python, CloudFormation
       link: null
-    - item: Data Engineering, Text Analytics
+    - item: Data Engineering, AI/ML Solutions
       link: null
-    - item: DevOps, LLM Developments
+    - item: AWS, Azure DevOps
       link: null
 career-profile:
   title: Career Profile
