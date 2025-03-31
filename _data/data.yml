@@ -22,11 +22,11 @@ sidebar:
     - idiom: Tamil
       level: Native
   technicals:
-    - item: Python, CloudFormation
+    - item: Python, Data Engineering, AI/ML Solutions
       link: null
-    - item: Data Engineering, AI/ML Solutions
+    - item: AWS, Azure DevOps, IoC (CloudFormation)
       link: null
-    - item: AWS, Azure DevOps
+    - item: API Development, Full-Stack
       link: null
 career-profile:
   title: Career Profile
